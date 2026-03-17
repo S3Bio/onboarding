@@ -1,0 +1,38 @@
+# Code of Conduct & Data Policies {#policies}
+
+The **S3Bio** lab is committed to fostering a safe, inclusive, and professionally rigorous environment. All members are expected to adhere to our Code of Conduct and Data Management policies.
+
+## Code of Conduct
+
+Our lab thrives on collaboration and mutual respect. We expect all members to:
+
+-   **Be Inclusive**: Welcome and support people of all backgrounds and identities.
+-   **Be Considerate**: Your work affects others. Communicate early and often about shared resources or equipment.
+-   **Be Professional**: Use professional language and conduct in all lab-related communications, including Slack, GitHub, and email.
+-   **Academic Integrity**: Maintain the highest standards of honesty in all research and publication activities. Plagiarism and data fabrication are strictly prohibited.
+-   **Reporting**: If you experience or witness harassment or unprofessional behavior, please report it to the PI or the university's ombudsperson.
+
+## Data Management Policy
+
+In the **S3Bio** lab, data is our most valuable asset. Proper management ensures reproducibility and long-term utility.
+
+### Data Storage & Backup
+
+-   **Raw Data**: Must be backed up immediately to the lab's primary network-attached storage (NAS) or designated cloud provider. **Never delete raw data.**
+-   **Active Projects**: Use the lab's GitHub organization for code and small metadata. Large binaries should be managed via Git LFS or external links.
+-   **Personal Devices**: Lab data should not be stored exclusively on personal laptops. Use the provided sync tools to ensure all work is backed up to lab servers.
+
+### Metadata & Documentation
+
+-   **Lab Notebooks**: All members must maintain a digital lab notebook (e.g., Benchling, LabArchives, or a dedicated Markdown repo).
+-   **Data Dictionary**: Every dataset must include a `README` or data dictionary explaining the variables, units, and collection methods.
+
+### Open Science & Sharing
+
+-   **Public Release**: Upon publication, all relevant code and data must be made publicly available (e.g., via Zenodo, Figshare, or GitHub) unless restricted by IRB or privacy agreements.
+-   **Authorship**: Authorship should be discussed early in a project and follow the CRediT (Contributor Roles Taxonomy) guidelines.
+
+::: {.callout-important}
+## Acknowledgment
+By working in the S3Bio lab, you agree to uphold these standards. Please sign the policy acknowledgment form during your first week.
+:::

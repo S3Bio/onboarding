@@ -1,0 +1,60 @@
+# Reproducible Research Rules {#reproducible-research}
+
+In the **S3Bio** lab, reproducibility is not just a goal; it's a requirement. We use Quarto to ensure that every result, plot, and table in our publications can be independently verified and recreated.
+
+## Lab Rule 1: No "Shadow" Data or Results
+
+All data analysis must be performed in a Quarto (`.qmd`) document. Never copy and paste numbers or plots from an interactive session into a report. The code that generated the result must be present in the document.
+
+## Lab Rule 2: Self-Contained Projects
+
+Every project must be self-contained. This means:
+
+-   **Data**: Small datasets should be in a `data/` folder.
+-   **Dependencies**: Include `Project.toml` and `Manifest.toml` files to specify the exact versions of the Julia packages used.
+-   **Paths**: Always use relative paths (e.g., `data/samples.csv`), never absolute paths (e.g., `C:/Users/name/Desktop/data.csv`).
+
+## Lab Rule 3: Use Version Control (Git/GitHub)
+
+Every Quarto project must be tracked in a Git repository and hosted on the **S3Bio** GitHub organization. This allows us to see how the analysis has evolved and to revert to previous versions if necessary.
+
+## Lab Rule 4: Clear Documentation
+
+Your Quarto documents should not just be blocks of code. Use Markdown to explain the *why* and *how* of your analysis. This is essential for someone (including your future self) to understand and reproduce your results. Use Markdown to:
+
+-   State the **objective** of the analysis.
+-   Describe the **methods** and any assumptions made.
+-   Explain the **findings** and how they relate to the project's goals.
+
+## Lab Rule 5: Regular Rendering
+
+Render your documents frequently to ensure they still work. A Quarto document that doesn't render is a broken analysis. Use `quarto preview` during development to see changes in real-time.
+
+## Lab Rule 6: Quarto for Communication
+
+All internal lab reports, presentations, and supplementary materials for publications must be created using Quarto. This ensures that the "source of truth" is always the code and that any changes to the data are automatically reflected in all communication materials.
+
+::: {.callout-important}
+## Reproducibility Checklist
+Before sharing your analysis with the lab, ask yourself:
+1. Does it render from start to finish on another machine using `quarto render`?
+2. Are all data sources and dependencies clearly defined?
+3. Is the logic of the analysis explained in the text?
+4. Are all figures and tables generated directly from the code?
+:::
+
+---
+
+## Example: A Reproducible Project Structure
+
+```text
+my-reproducible-project/
+├── data/           # Raw and cleaned data
+├── docs/           # Project-specific documentation
+├── results/        # Rendered HTML/PDF reports
+├── src/            # Helper scripts (.jl)
+├── README.md       # Project overview
+├── analysis.qmd    # The main Quarto analysis file
+├── Project.toml    # Julia project dependencies
+└── Manifest.toml   # Precise Julia package versions
+```

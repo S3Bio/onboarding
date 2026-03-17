@@ -1,0 +1,40 @@
+# Package Publishing & Documentation {#pkg-publishing}
+
+The final stage of package development in the **S3Bio** lab is documentation and publishing.
+
+## 1. Documenting Your Package
+
+We use **Documenter.jl** to create professional, Markdown-based documentation.
+
+### Why Documentation?
+-   It explains the **theory** behind your code.
+-   It provides **examples** and **tutorials** for other users.
+-   It automatically generates a **reference guide** from your docstrings.
+
+### Documentation Structure
+Your documentation lives in the `docs/` folder:
+
+```text
+docs/
+├── make.jl    # Build script
+└── src/
+    └── index.md # Main documentation page
+```
+
+### Auto-Deployment
+Our templates configure GitHub Actions to automatically build and deploy your documentation to **GitHub Pages** whenever you push to the `main` branch.
+
+## 2. Registering Your Package
+
+Most of our lab packages are private or shared within our GitHub organization. For general-purpose tools, we may register them in the **General** Julia registry.
+
+### Registration Process
+1.  **Tag a Release**: Use a Git tag (e.g., `v1.0.0`) to mark your release.
+2.  **Use JuliaRegistrator**: We use the **Registrator** bot on GitHub. Comment `@JuliaRegistrator register` on a commit or PR to start the process.
+3.  **Lab Approval**: Consult with the PI before registering any package in a public registry.
+
+## 3. Best Practices for Maintenance
+
+-   **Semantic Versioning (SemVer)**: Follow SemVer (e.g., `v1.2.3`). Increase the major version for breaking changes.
+-   **Release Notes**: Maintain a `CHANGELOG.md` to track changes between versions.
+-   **Dependency Updates**: Periodically update your `Project.toml` and `Manifest.toml` to use the latest versions of your dependencies.

@@ -1,0 +1,60 @@
+# Julia Programming {#julia-programming}
+
+Julia is the primary language for numerical analysis and simulation in the **S3Bio** lab. Its "high-level" syntax combined with "low-level" performance makes it ideal for systems biology.
+
+## Installation
+
+We recommend using **juliaup**, the official Julia installer and version multiplexer. It makes it easy to install and update different versions of Julia.
+
+::: {.panel-tabset}
+
+### Windows
+Open a terminal (PowerShell or Command Prompt) and run:
+```powershell
+winget install julia -s msstore
+```
+
+### macOS
+Use Homebrew to install juliaup:
+```bash
+brew install juliaup
+```
+
+### Linux
+Run the following command in your shell:
+```bash
+curl -fsSL https://install.julialang.org | sh
+```
+
+:::
+
+After installation, verify it by running `julia` in your terminal.
+
+## Working Directory & Environment Best Practices
+
+In our lab, every project **must** have its own isolated environment. This ensures that your code remains reproducible even as packages are updated globally.
+
+### 1. Project Activation
+Always start your Julia session by activating the local environment.
+
+```julia
+using Pkg
+Pkg.activate(".")
+```
+
+Alternatively, start Julia with the `--project` flag:
+```bash
+julia --project
+```
+
+### 2. Dependency Management
+- **Project.toml**: Lists the packages your project depends on.
+- **Manifest.toml**: Records the exact versions of every dependency (including sub-dependencies).
+
+**Lab Rule**: Always commit both `Project.toml` and `Manifest.toml` to your Git repository.
+
+::: {.callout-tip}
+## Learn More
+- [Official Julia Documentation](https://docs.julialang.org/)
+- [Modern Julia Workflows](https://modernjuliaworkflows.github.io/)
+:::

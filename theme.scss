@@ -1,0 +1,47 @@
+/*-- scss:defaults --*/
+
+// Custom colors based on S3Bio logo
+$s3-blue: #004c99;
+$s3-orange: #ff9933;
+$s3-grey: #808080;
+$s3-light-grey: #f8f9fa;
+
+// Theme overrides
+$primary: $s3-blue;
+$secondary: $s3-grey;
+$navbar-bg: $s3-blue;
+$navbar-fg: white;
+$link-color: $s3-blue;
+$link-hover-color: $s3-orange;
+
+/*-- scss:rules --*/
+
+.navbar {
+  border-bottom: 4px solid $s3-orange;
+}
+
+.quarto-title-block .quarto-title-banner {
+  background-color: $s3-blue;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.callout {
+    border-left-color: $s3-orange !important;
+}
+
+// Emphasize sidebar titles
+.sidebar-title, 
+.sidebar-section-title {
+  font-weight: bold !important;
+}
+
+.quarto-sidebar-section-title {
+  font-weight: 700 !important;
+}

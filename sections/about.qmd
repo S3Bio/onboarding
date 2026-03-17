@@ -1,0 +1,11 @@
+# About S3Bio Lab {#about}
+
+The **Systems.Synthetic.Systematic Biology (S3Bio)** lab focuses on three core pillars:
+
+1.  **Systems Biology**: Understanding biological networks as integrated systems.
+2.  **Synthetic Biology**: Engineering biological systems with novel functions.
+3.  **Systematic Biology**: Applying rigorous mathematical and computational methods to biological discovery.
+
+## Our Philosophy
+
+We believe in open science, collaboration, and systematic rigor. Every member of our lab contributes to a culture of innovation and respect.

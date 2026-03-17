@@ -1,0 +1,52 @@
+# GitHub Workflow & Best Practices {#github-workflow}
+
+The **S3Bio** lab uses GitHub for version control, collaboration, and project management. Following a consistent workflow ensures that our research is reproducible and our codebase is maintainable.
+
+## Our Workflow: The Feature Branch Model
+
+We follow a standard feature branch workflow to keep our `main` branch stable.
+
+1.  **Create a Branch**: Never work directly on `main`. Create a descriptive branch name (e.g., `feature/rna-seq-analysis` or `bugfix/fix-plotting-error`).
+2.  **Commit Often**: Make small, frequent commits with clear messages.
+3.  **Open a Pull Request (PR)**: Once your work is ready (or even while it's in progress), open a PR to merge into `main`.
+4.  **Code Review**: At least one other lab member must review and approve your PR before it can be merged.
+5.  **Merge and Delete**: After approval and successful CI checks, merge the PR and delete the feature branch.
+
+## Commit Message Conventions
+
+Good commit messages make it easier to track changes. We recommend the following format:
+
+`[Type]: Short description (max 50 chars)`
+
+Common types:
+- `feat`: A new feature or analysis.
+- `fix`: A bug fix.
+- `docs`: Documentation changes.
+- `refactor`: Code changes that neither fix a bug nor add a feature.
+- `data`: Adding or updating small data files.
+
+## Repository Structure
+
+To keep our projects organized, please follow this general directory structure:
+
+```text
+project-name/
+├── data/           # Raw and processed data (see note below)
+├── docs/           # Project-specific documentation
+├── results/        # Output plots, tables, and reports
+├── src/            # Source code (R, Python, etc.)
+├── README.md       # Project overview and instructions
+└── .gitignore      # Files to exclude from version control
+```
+
+## Best Practices
+
+::: {.callout-important}
+## Security First
+**NEVER** commit sensitive information such as API keys, passwords, or private laboratory credentials. Use `.env` files and ensure they are listed in your `.gitignore`.
+:::
+
+- **Data Management**: Avoid committing large datasets (>50MB). Use our lab's shared drive or specialized data repositories for large files, and include a script in `src/` to download or process them.
+- **Reproducibility**: Ensure your code is well-commented and includes a `requirements.txt` or `environment.yml` file.
+- **README**: Every repository should have a `README.md` that explains the project's purpose, how to install dependencies, and how to run the analysis.
+- **Issues**: Use GitHub Issues to track tasks, bugs, and feature requests.

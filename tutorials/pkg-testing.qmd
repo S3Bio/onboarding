@@ -1,0 +1,53 @@
+# Testing & Continuous Integration {#pkg-testing}
+
+Testing is fundamental to ensuring the correctness and stability of our research software. In the **S3Bio** lab, all packages must follow a rigorous testing and CI protocol.
+
+## 1. Writing Unit Tests
+
+We use the built-in `Test` standard library to write unit tests for all our functions.
+
+### `test/runtests.jl`
+Every package must have a `test/runtests.jl` file. Use `@testset` to organize your tests into logical groups:
+
+```julia
+using MyPackage
+using Test
+
+@testset "MyPackage.jl" begin
+    @testset "Basic Functions" begin
+        @test MyPackage.add(1, 1) == 2
+        @test MyPackage.multiply(2, 3) == 6
+    end
+    
+    @testset "Complex Analysis" begin
+        # More complex tests here
+    end
+end
+```
+
+## 2. Running Tests Locally
+
+To run your tests from the Julia REPL:
+```julia
+using Pkg
+Pkg.test()
+```
+
+This will automatically create a temporary environment and run your tests in it.
+
+## 3. GitHub Actions (CI)
+
+Our packages are automatically tested on every push and pull request via GitHub Actions. Our templates (from `PkgTemplates.jl`) automatically configure this for you.
+
+### CI Requirements
+1.  **Passed Builds**: Every PR must pass all CI checks (Linux, macOS, Windows) for the supported Julia versions.
+2.  **Code Coverage**: We use **Codecov** to track our test coverage.
+    -   **Minimum Requirement**: All lab packages must maintain at least **80% code coverage**.
+
+::: {.callout-important}
+## Lab Rule
+A pull request will not be merged until it passes all CI checks and meets the code coverage requirements.
+:::
+
+## 4. Troubleshooting CI
+If your CI build fails, check the GitHub Actions logs to identify the error. Often, it's due to a missing dependency in `Project.toml` or a platform-specific issue.

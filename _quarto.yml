@@ -1,0 +1,52 @@
+project:
+  type: book
+
+book:
+  title: "S3Bio Lab Orientation"
+  author: "S3Bio Lab"
+  date: last-modified
+  sidebar:
+    logo: logo.png
+  chapters:
+    - index.qmd
+    - part: "Introduction & Onboarding"
+      chapters:
+        - sections/about.qmd
+        - sections/getting-started.qmd
+        - sections/policies.qmd
+        - sections/resources.qmd
+    - part: "Lab Safety & Protocols"
+      chapters:
+        - sections/lab-safety/personal-protection.qmd
+        - sections/lab-safety/lab-regulations.qmd
+        - sections/lab-safety/biosafety.qmd
+        - sections/lab-safety/chemical-safety.qmd
+        - sections/lab-safety/waste-management.qmd
+    - part: "Git & GitHub Tutorial"
+      chapters:
+        - tutorials/git-fundamentals.qmd
+        - tutorials/github-collaboration.qmd
+        - tutorials/github-workflow.qmd
+        - tutorials/personal-github-repo.qmd
+        - tutorials/github-project-management.qmd
+    - part: "Quarto & Julia for Reproducible Research"
+      chapters:
+        - tutorials/quarto-basics.qmd
+        - tutorials/julia-programming.qmd
+        - tutorials/julia-data-analysis.qmd
+        - tutorials/reproducible-research.qmd
+    - part: "Julia Package Development"
+      chapters:
+        - tutorials/pkg-structure.qmd
+        - tutorials/pkg-dev-workflow.qmd
+        - tutorials/pkg-testing.qmd
+        - tutorials/pkg-publishing.qmd
+
+format:
+  html:
+    theme:
+      light: [cosmo, theme.scss]
+    css: styles.css
+    toc: true
+    number-sections: false
+    embed-resources: true

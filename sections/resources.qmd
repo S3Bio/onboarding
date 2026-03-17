@@ -1,0 +1,47 @@
+# Lab Resources & Protocols {#resources}
+
+The **S3Bio** lab uses a wide range of tools and resources. This chapter provides a guide to our facilities and the standard protocols we follow.
+
+## Computing Resources
+
+-   **GitHub**: Our organization can be found at `github.com/S3Bio`. All code should be hosted here.
+-   **High-Performance Computing (HPC)**: We use the university's cluster for large-scale simulations and data processing. See the Lab Manager for an account.
+-   **Shared Drive**: Large datasets and administrative documents are stored on our lab NAS.
+-   **Zotero**: We use a shared Zotero library for literature management.
+
+## Lab Equipment & Facilities
+
+-   **Molecular Biology Suite**: Contains our PCR machines, gel electrophoresis equipment, and centrifuges.
+-   **Imaging Core**: Houses our confocal and fluorescence microscopes. Booking must be done 24 hours in advance via the [Booking Portal](https://example.com).
+-   **Tissue Culture Lab**: Access requires specific Level 2 training.
+-   **Cold Storage**: 
+    -   -20°C: Common reagents and enzymes.
+    -   -80°C: Long-term sample storage. Every box must be clearly labeled and logged in the lab inventory.
+
+## Standard Operating Procedures (SOPs)
+
+Following these protocols ensures consistency and safety in our research.
+
+### Sample Preparation
+-   All biological samples must be labeled with: **Date, Sample ID, and User Initials**.
+-   Use the designated "Clean Room" for high-sensitivity RNA work.
+
+### Data Acquisition
+-   **Naming Convention**: All files should follow the `YYYY-MM-DD_ProjectID_Description` format.
+-   **Metadata**: Every experiment must have a corresponding entry in the electronic lab notebook (ELN) detailing all experimental parameters.
+
+### Equipment Maintenance
+-   **Sign-in Logs**: Always sign the logbook for the PCR and Imaging systems.
+-   **Reporting Faults**: If a piece of equipment is malfunctioning, tag it "Out of Order" and notify the Lab Manager immediately.
+
+### Laboratory Hygiene
+-   **Bench Cleaning**: Wipe down your workspace with 70% Ethanol before and after every session.
+-   **Waste Disposal**:
+    -   Red Bins: Biohazardous waste.
+    -   Yellow Bins: Sharps.
+    -   Blue Bins: Non-hazardous glass.
+
+::: {.callout-note}
+## Accessing Full Protocols
+A complete list of our detailed experimental protocols (e.g., Miniprep, NGS Library Prep, CRISPR Screen) can be found on our [Internal Lab Wiki](https://example.com).
+:::

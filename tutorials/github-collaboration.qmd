@@ -1,0 +1,63 @@
+# GitHub Collaboration {#github-collaboration}
+
+GitHub is a hosting service for Git repositories that makes it easy to collaborate with other lab members.
+
+## 1. Remote Repositories
+
+A **remote** is a version of your project that is hosted on the internet (like GitHub).
+
+### Cloning a Repository
+To download a repository from the **S3Bio** organization:
+
+```bash
+git clone https://github.com/S3Bio/repo-name.git
+```
+
+### Pushing Changes
+To upload your local commits to GitHub:
+
+```bash
+git push origin main
+# Replace 'main' with your branch name (e.g., 'feature/new-analysis')
+```
+
+### Pulling Changes
+To update your local repository with changes from GitHub:
+
+```bash
+git pull origin main
+```
+
+## 2. Forking and Pull Requests (PRs)
+
+If you don't have write access to a repository, you can **fork** it, which creates a personal copy on your GitHub account.
+
+1.  **Fork** the repository on GitHub.
+2.  **Clone** your fork locally.
+3.  **Make changes** and push them to your fork.
+4.  **Open a Pull Request** on the original repository to propose your changes.
+
+## 3. Resolving Merge Conflicts
+
+A merge conflict happens when two people change the same part of a file in different ways.
+
+1.  Git will mark the conflict in the file:
+    ```text
+    <<<<<<< HEAD
+    Changes in your current branch
+    =======
+    Changes from the other branch
+    >>>>>>> branch-name
+    ```
+2.  **Manually edit** the file to choose the correct version.
+3.  **Stage** the resolved file: `git add filename.txt`.
+4.  **Commit** the resolution: `git commit`.
+
+## 4. Issues and Collaboration
+
+Use GitHub Issues to report bugs, request features, or discuss project ideas. Tag your teammates using their `@username` to notify them.
+
+::: {.callout-note}
+## Lab Rules
+Always refer to our [GitHub Workflow & Best Practices](#github-workflow) for the lab's specific rules on branching and code reviews.
+:::

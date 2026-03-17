@@ -1,0 +1,117 @@
+# Quarto Basics {#quarto-basics}
+
+Quarto is the primary tool we use in the **S3Bio** lab for documenting our research, performing data analysis, and creating reports. It allows us to combine text, code, and results into a single, professional document.
+
+## Installation
+
+Before using Quarto, you need to install it on your system.
+
+::: {.panel-tabset}
+
+### Windows
+
+- Download the latest Windows MSI installer from the [Quarto Download page](https://quarto.org/docs/get-started/).
+- Run the installer and follow the instructions.
+- Verify the installation by opening a terminal (PowerShell or Git Bash) and running:
+   ```bash
+   quarto --version
+   ```
+
+### macOS
+
+The easiest way to install Quarto on macOS is via [Homebrew](https://brew.sh/):
+
+```bash
+brew install --cask quarto
+```
+
+Alternatively, you can download the `.pkg` installer from the [Quarto website](https://quarto.org/docs/get-started/).
+
+### Linux
+
+On Debian-based systems (like Ubuntu), download the `.deb` file and install it:
+
+```bash
+# Example for version 1.4.549
+sudo gdebi quarto-1.4.549-linux-amd64.deb
+```
+
+For other distributions, you can download the `.tar.gz` file and extract it to your desired location.
+
+:::
+
+## The Anatomy of a Quarto Document
+
+A `.qmd` file consists of three main parts:
+
+- **YAML Header**: Contained between `---` at the top of the file. It defines the document's title, author, output format, and other metadata.
+
+    ```yaml
+    ---
+    title: "My Analysis"
+    author: "S3Bio Lab Member"
+    format: html
+    engine: julia
+    ---
+    ```
+
+- **Markdown Text**: The narrative part of your document, where you explain your methods and interpret your results.
+- **Code Cells**: Blocks of code (R, Python, or Julia) that perform your analysis and generate outputs like plots and tables.
+
+## Markdown Basics
+
+The narrative part of your document is written in Markdown. Here are some commonly used commands:
+
+| Feature | Syntax |
+|---------|--------|
+| **Headers** | `# Header 1`, `## Header 2`, `### Header 3` |
+| **Emphasis** | `*italic*`, `**bold**`, `***bold italic***` |
+| **Lists** | `- Item 1` (unordered), `1. Item 1` (ordered) |
+| **Links** | `[S3Bio Lab](https://github.com/S3Bio)` |
+| **Images** | `![Caption](logo.png)` |
+| **Tables** | `| Column 1 | Column 2 |` (see example below) |
+| **Blockquotes** | `> This is a quote` |
+| **Inline Code** | `` `code` `` |
+| **Math (LaTeX)** | `$E = mc^2$` (inline), `$$ \dots $$` (block) |
+
+### Example Table
+
+```markdown
+| Method | Speed | Accuracy |
+|--------|-------|----------|
+| A      | Fast  | High     |
+| B      | Slow  | Medium   |
+```
+
+## Code Cells
+
+To add a code cell, use triple backticks followed by the language in curly braces:
+
+```{{julia}}
+#| label: example-plot
+#| fig-cap: "An example plot in Julia"
+using Plots
+x = 1:10; y = rand(10);
+plot(x, y, title="S3Bio Lab Example")
+```
+
+The `#|` lines are **cell options** that control how the code and its output are displayed.
+
+## Rendering Documents
+
+To "render" your `.qmd` file into its final format (HTML, PDF, or Word), use the Render button in your IDE (like RStudio or VS Code) or the command line:
+
+```bash
+quarto render my-document.qmd
+```
+
+## Why We Use Quarto
+
+-   **Reproducibility**: The results are generated directly from the code.
+-   **Transparency**: Your analysis logic is clear and well-documented.
+-   **Flexibility**: One document can be rendered into multiple formats.
+
+::: {.callout-tip}
+## Resources
+Check out the [official Quarto documentation](https://quarto.org/docs/get-started/) for a comprehensive guide.
+:::

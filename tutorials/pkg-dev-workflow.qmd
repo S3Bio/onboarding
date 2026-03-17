@@ -1,0 +1,40 @@
+# Development Workflow & Revise.jl {#pkg-dev-workflow}
+
+A productive Julia development workflow is interactive. In the **S3Bio** lab, we use **Revise.jl** as a mandatory tool to enable rapid code modification without needing to restart the Julia REPL.
+
+## Setting Up Revise.jl
+
+Revise should be installed in your global environment and automatically loaded when you start Julia.
+
+### 1. Installation
+In the Julia REPL, press `]` to enter Pkg mode:
+```julia
+pkg> add Revise
+```
+
+### 2. Configure Automatic Loading
+Create (or edit) your `~/.julia/config/startup.jl` file and add the following lines:
+
+```julia
+try
+    using Revise
+catch e
+    @warn "Error loading Revise" e
+end
+```
+
+## Interactive Development Workflow
+
+The typical workflow for modifying a package in the lab is as follows:
+
+1.  **Open Julia** in your project directory: `julia --project`.
+2.  **Load your package**: `using MyPackage`.
+3.  **Use Revise**: Any changes you make to the source code files in `src/` will be immediately reflected in your current Julia session.
+4.  **No Restart Required**: You can keep your session open for days while you iterate on your code and analysis.
+
+## Project Activation
+
+Always ensure you are working within the correct project environment.
+
+- **REPL**: Use `Pkg.activate(".")` if you didn't start with the `--project` flag.
+- **VS Code**: The Julia extension automatically detects and activates your project environment if configured correctly.

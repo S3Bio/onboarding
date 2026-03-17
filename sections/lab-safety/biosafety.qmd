@@ -1,0 +1,35 @@
+# Biosafety Protocols {#biosafety}
+
+The **S3Bio** lab handles a variety of biological materials, including bacteria, cell lines, and viral vectors. Adherence to biosafety protocols is essential to protect yourself and the environment.
+
+## 1. Biosafety Levels (BSL)
+
+Our lab is classified for **BSL-2** work.
+
+-   **BSL-1**: For agents not known to cause disease in healthy adults (e.g., E. coli K-12).
+-   **BSL-2**: For agents associated with human disease (e.g., specific cell lines, viral vectors). Access is restricted, and specialized PPE and containment are required.
+
+## 2. Biological Safety Cabinet (BSC) Usage
+
+-   **Pre-work**: Surface-decontaminate the BSC with 70% ethanol before starting work.
+-   **Work Practices**: Keep the air intake grill clear. Work at least 6 inches back from the front opening.
+-   **Aseptic Technique**: Use proper aseptic techniques to prevent contamination of your samples and the lab environment.
+-   **Post-work**: Decontaminate the BSC and run the UV light for the required time (usually 15-20 minutes).
+
+## 3. Storage and Transport
+
+-   **Secondary Containment**: Use leak-proof, shatterproof secondary containers when transporting biological materials between labs or to and from cold storage.
+-   **Labeling**: Ensure all biological samples are clearly labeled with the agent name, date, and BSL level.
+
+## 4. Decontamination and Spills
+
+-   **Surface Decontamination**: Wipe down all work surfaces with a freshly prepared 10% bleach solution or 70% ethanol after every experimental session.
+-   **Biohazard Spills**: In case of a biological spill:
+    1.  Alert others and evacuate the area if needed.
+    2.  Wait 30 minutes for aerosols to settle.
+    3.  Follow the established spill cleanup procedure using the biohazard spill kit.
+
+::: {.callout-warning}
+## Training Requirement
+You must complete the university's online and in-person biosafety training before beginning any BSL-2 work.
+:::

@@ -1,0 +1,16 @@
+# Quarto
+.quarto/
+_site/
+_book/
+_freeze/
+*.html
+
+# Julia
+# We follow the lab rule to commit Manifest.toml for reproducibility
+# but we ignore other artifacts
+*.jl.cov
+*.jl.mem
+
+# OS
+.DS_Store
+Thumbs.db
