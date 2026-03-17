@@ -2,7 +2,7 @@
 
 While the **S3Bio** GitHub organization is for official lab projects, we highly recommend that every student and researcher maintains a personal GitHub repository for **study planning**, **personal documentation**, and **tracking their research journey**.
 
-## 1. Why a Personal Study Repository?
+## Why a Personal Study Repository?
 
 A personal repository acts as your "digital lab notebook" and "career portfolio."
 
@@ -10,7 +10,7 @@ A personal repository acts as your "digital lab notebook" and "career portfolio.
 -   **Consolidate**: Keep your study notes, literature reviews, and personal learning resources in one place.
 -   **Reflect**: Tracking your results and observations over time helps you see your progress and refine your methods.
 
-## 2. Best Practice Structure
+## Best Practice Structure
 
 We recommend a structure similar to this for your personal research/study repo:
 
@@ -23,7 +23,7 @@ research-journal/
 └── README.md          # Overview of your research interests and current goals
 ```
 
-## 3. Study Planning with GitHub Tools
+## Study Planning with GitHub Tools
 
 ### Using Issues for Tasks
 Treat every task (e.g., "Read Paper X," "Run Simulation Y") as a GitHub Issue. This allows you to:
@@ -34,7 +34,7 @@ Treat every task (e.g., "Read Paper X," "Run Simulation Y") as a GitHub Issue. T
 ### Using Projects for Milestones
 Use a **GitHub Project (Kanban board)** to visualize your progress across `To Do`, `In Progress`, and `Done` columns.
 
-## 4. Keeping Results and Data
+## Keeping Results and Data
 
 ::: {.callout-warning}
 ## Data Security Rule
@@ -44,7 +44,7 @@ Never commit large, sensitive, or raw datasets to your personal repository. Use 
 -   **Summaries Only**: Your personal repo should contain **summaries** (plots, key tables, observations) rather than raw data.
 -   **Links**: Store links to the official lab datasets in your planning documents to maintain a connection between your notes and the source of truth.
 
-## 5. Privacy and Sharing
+## Privacy and Sharing
 
 -   **Public vs. Private**: You can keep your study repo private, but we encourage making sections of it public to build your professional profile.
 -   **Collaboration**: You can invite your advisor as a collaborator to your private repo for more direct feedback on your planning and notes.

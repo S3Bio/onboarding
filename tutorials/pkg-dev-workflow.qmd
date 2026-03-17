@@ -6,13 +6,13 @@ A productive Julia development workflow is interactive. In the **S3Bio** lab, we
 
 Revise should be installed in your global environment and automatically loaded when you start Julia.
 
-### 1. Installation
+### Installation
 In the Julia REPL, press `]` to enter Pkg mode:
 ```julia
 pkg> add Revise
 ```
 
-### 2. Configure Automatic Loading
+### Configure Automatic Loading
 Create (or edit) your `~/.julia/config/startup.jl` file and add the following lines:
 
 ```julia

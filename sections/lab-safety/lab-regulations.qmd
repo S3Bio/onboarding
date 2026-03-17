@@ -2,18 +2,18 @@
 
 A safe and efficient lab environment is built on shared responsibility and adherence to clear regulations.
 
-## 1. Professional Conduct
+## Professional Conduct
 
 -   **No Lone Working**: Avoid working in the lab alone, especially after hours or with hazardous materials. If you must, ensure the PI or a lab mate is aware and checks in on you periodically.
 -   **No Unauthorized Visitors**: All visitors must be approved by the PI and receive a safety briefing before entering the lab.
 
-## 2. Workspace Management
+## Workspace Management
 
 -   **Cleanliness**: Keep your assigned bench space organized and clean. Clean up any spills (no matter how small) immediately.
 -   **Labelling**: Every container, tube, and box must be clearly labeled with the contents, date, and your initials. Unlabeled containers will be discarded.
 -   **Shared Areas**: Clean common equipment (e.g., balances, centrifuges, PCR machines) immediately after use.
 
-## 3. Emergency Preparedness
+## Emergency Preparedness
 
 -   **Know the Locations**: Familiarize yourself with the location of the nearest:
     -   Emergency Exit
@@ -22,10 +22,21 @@ A safe and efficient lab environment is built on shared responsibility and adher
     -   Eyewash Station and Safety Shower
 -   **Incident Reporting**: All accidents, near-misses, and chemical/biological spills must be reported to the PI and the University Safety Office within 24 hours.
 
-## 4. Off-Hours Access
+## Off-Hours Access
 
 -   **Access Codes**: Do not share your lab access code or keycard with anyone.
 -   **Secure the Lab**: If you are the last person to leave, ensure all equipment is properly shut down (except for designated always-on machines), the lights are off, and the doors are securely locked.
+
+## Sharps Waste
+
+-   **Sharps Containers**: Dispose of all needles, scalpels, and other sharp objects in puncture-resistant, labeled sharps containers.
+-   **Never Recap Needles**: Dispose of needles immediately after use without recapping.
+-   **Broken Glass**: Use a designated "Broken Glass" box for non-contaminated broken glass. If the glass is contaminated with biological or chemical hazards, treat it appropriately before disposal.
+
+## Regular Trash
+
+-   **No Hazards**: Ensure that no biological, chemical, or sharps materials end up in the regular trash or recycling bins.
+-   **Cleanliness**: Keep the trash areas tidy and do not block access to waste containers.
 
 ::: {.callout-note}
 ## Safety Contact Information

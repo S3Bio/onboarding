@@ -2,7 +2,7 @@
 
 The final stage of package development in the **S3Bio** lab is documentation and publishing.
 
-## 1. Documenting Your Package
+## Documenting Your Package
 
 We use **Documenter.jl** to create professional, Markdown-based documentation.
 
@@ -24,7 +24,7 @@ docs/
 ### Auto-Deployment
 Our templates configure GitHub Actions to automatically build and deploy your documentation to **GitHub Pages** whenever you push to the `main` branch.
 
-## 2. Registering Your Package
+## Registering Your Package
 
 Most of our lab packages are private or shared within our GitHub organization. For general-purpose tools, we may register them in the **General** Julia registry.
 
@@ -33,7 +33,7 @@ Most of our lab packages are private or shared within our GitHub organization. F
 2.  **Use JuliaRegistrator**: We use the **Registrator** bot on GitHub. Comment `@JuliaRegistrator register` on a commit or PR to start the process.
 3.  **Lab Approval**: Consult with the PI before registering any package in a public registry.
 
-## 3. Best Practices for Maintenance
+## Best Practices for Maintenance
 
 -   **Semantic Versioning (SemVer)**: Follow SemVer (e.g., `v1.2.3`). Increase the major version for breaking changes.
 -   **Release Notes**: Maintain a `CHANGELOG.md` to track changes between versions.

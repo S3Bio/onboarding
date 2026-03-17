@@ -2,7 +2,7 @@
 
 Personal Protective Equipment (PPE) is your first line of defense against laboratory hazards. In the **S3Bio** lab, wearing the correct PPE is mandatory at all times.
 
-## 1. Mandatory PPE
+## Mandatory PPE
 
 Whenever you are working at a lab bench, you must wear:
 
@@ -10,7 +10,7 @@ Whenever you are working at a lab bench, you must wear:
 -   **Gloves**: Nitrile gloves are standard. Change your gloves immediately if they become contaminated or torn. **Never touch door handles or keyboards with gloved hands.**
 -   **Eye Protection**: Safety glasses or goggles must be worn when handling liquids, chemicals, or biological agents.
 
-## 2. Proper Attire
+## Proper Attire
 
 Beyond PPE, your general clothing must also provide protection:
 
@@ -18,7 +18,7 @@ Beyond PPE, your general clothing must also provide protection:
 -   **Long Pants**: Your legs must be fully covered. No shorts or skirts above the knee.
 -   **Hair & Jewelry**: Tie back long hair and avoid dangling jewelry or loose clothing that could get caught in equipment.
 
-## 3. Hygiene
+## Hygiene
 
 -   **Hand Washing**: Always wash your hands thoroughly with soap and water after removing your gloves and before leaving the lab.
 -   **No Food or Drink**: Consumption of food or drink is strictly prohibited in all laboratory areas. Do not store food in lab refrigerators.

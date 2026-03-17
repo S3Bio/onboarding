@@ -48,5 +48,3 @@ format:
       light: [cosmo, theme.scss]
     css: styles.css
     toc: true
-    number-sections: false
-    embed-resources: true

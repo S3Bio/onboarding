@@ -2,13 +2,13 @@
 
 Chemical safety in the **S3Bio** lab depends on your knowledge of the materials you use and proper handling techniques.
 
-## 1. Safety Data Sheets (SDS)
+## Safety Data Sheets (SDS)
 
 Every chemical in the lab has a corresponding SDS. Before using a new chemical:
 -   **Review the SDS**: Understand the hazards, PPE requirements, and emergency procedures.
 -   **Know the Symbols**: Be familiar with the GHS hazard symbols (e.g., flammable, corrosive, toxic).
 
-## 2. Proper Storage
+## Proper Storage
 
 -   **Compatibility**: Store chemicals in compatible groups. Never store acids with bases or flammables with oxidizers.
 -   **Storage Cabinets**:
@@ -16,7 +16,7 @@ Every chemical in the lab has a corresponding SDS. Before using a new chemical:
     -   **Acid/Base Cabinets**: For corrosive materials.
 -   **Secondary Containment**: Use trays to catch any potential leaks or spills in storage.
 
-## 3. Fume Hood Usage
+## Fume Hood Usage
 
 Use the fume hood when working with volatile, toxic, or odorous chemicals.
 
@@ -24,7 +24,7 @@ Use the fume hood when working with volatile, toxic, or odorous chemicals.
 -   **Keep it Clear**: Don't clutter the hood with storage. Keep items at least 6 inches from the front sash.
 -   **Sash Height**: Keep the sash at or below the designated safe working level.
 
-## 4. Key Rules
+## Key Rules
 
 1.  **Label Everything**: Even common reagents (like 70% EtOH) must be clearly labeled with the name, concentration, and date.
 2.  **No Mouth Pipetting**: Always use a mechanical pipetting device.

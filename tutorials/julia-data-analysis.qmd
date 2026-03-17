@@ -2,7 +2,7 @@
 
 In the **S3Bio** lab, our data analysis workflow is a systematic process built on the **JuliaStats** and **Tidier.jl** ecosystems. This chapter breaks down our best practices across the five core stages of research analysis.
 
-## 1. Data Collection & Import
+## Data Collection & Import
 
 We use **TidierFiles.jl** for a Tidyverse-consistent data import experience.
 
@@ -18,7 +18,7 @@ using Tidier, StatsKit
 df_raw = read_csv("data/raw_experiment_data.csv")
 ```
 
-## 2. Data Preprocessing & Cleaning
+## Data Preprocessing & Cleaning
 
 Data cleaning is the most critical step for reproducibility. We use **TidierData.jl** to create clear, auditable cleaning pipelines.
 
@@ -35,7 +35,7 @@ df_clean = @chain df_raw begin
 end
 ```
 
-## 3. Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 EDA allows us to understand the distributions and relationships in our data before formal modeling.
 
@@ -56,7 +56,7 @@ df_clean |>
     geom_density(alpha = 0.5)
 ```
 
-## 4. Statistical Analysis
+## Statistical Analysis
 
 For formal hypothesis testing and modeling, we transition to the robust **JuliaStats** ecosystem, primarily **GLM.jl** and **MixedModels.jl**.
 
@@ -73,7 +73,7 @@ println(coeftable(model))
 println("R²: ", r2(model))
 ```
 
-## 5. Data Presentation
+## Data Presentation
 
 Presentation-quality figures and tables are the final output of our workflow.
 
@@ -98,7 +98,7 @@ final_plot = df_clean |>
 # Save for publication
 # ggsave("results/figure1.svg", final_plot)
 ```
-## 6. Compliance with Reproducible Research Rules
+## Compliance with Reproducible Research Rules
 
 To ensure your Julia analysis is fully reproducible and compliant with [Lab Rules](#reproducible-research), you must follow these technical requirements:
 

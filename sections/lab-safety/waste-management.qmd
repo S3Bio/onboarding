@@ -2,14 +2,14 @@
 
 Proper waste management is crucial for the safety of our lab members, the university's facility staff, and the environment.
 
-## 1. Biological Waste
+## Biological Waste
 
 All biological waste must be decontaminated before final disposal.
 
 -   **Solid Biohazard Waste**: Dispose of in red biohazard bags. Do not overfill (max 2/3 full). Red bags must be autoclaved before disposal in regular trash.
 -   **Liquid Biohazard Waste**: Treat with a final concentration of 10% bleach for 30 minutes before pouring down the drain with plenty of water.
 
-## 2. Chemical Waste
+## Chemical Waste
 
 Chemical waste must be collected in compatible containers and disposed of through the university's environmental health and safety (EHS) office.
 
@@ -17,13 +17,13 @@ Chemical waste must be collected in compatible containers and disposed of throug
 -   **Labelling**: Each waste container must have a university-approved waste tag listing all components and their approximate concentrations.
 -   **Storage**: Keep waste containers closed at all times, except when adding waste. Store in a secondary containment tray.
 
-## 3. Sharps Waste
+## Sharps Waste
 
 -   **Sharps Containers**: Dispose of all needles, scalpels, and other sharp objects in puncture-resistant, labeled sharps containers.
 -   **Never Recap Needles**: Dispose of needles immediately after use without recapping.
 -   **Broken Glass**: Use a designated "Broken Glass" box for non-contaminated broken glass. If the glass is contaminated with biological or chemical hazards, treat it appropriately before disposal.
 
-## 4. Regular Trash
+## Regular Trash
 
 -   **No Hazards**: Ensure that no biological, chemical, or sharps materials end up in the regular trash or recycling bins.
 -   **Cleanliness**: Keep the trash areas tidy and do not block access to waste containers.

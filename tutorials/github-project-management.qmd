@@ -2,7 +2,7 @@
 
 In the **S3Bio** lab, we use GitHub's built-in project management tools to organize our work, whether for individual study plans or collaborative package development.
 
-## 1. Using GitHub Issues for Tasks
+## Using GitHub Issues for Tasks
 
 An **Issue** is a single, actionable unit of work.
 
@@ -21,7 +21,7 @@ Issues are the standard way to track bugs, features, and improvements.
 -   **References**: Link issues to specific lines of code or other issues using their ID (e.g., `#42`).
 -   **Milestones**: Assign issues to a specific **Milestone** to track progress towards a release.
 
-## 2. Using GitHub Projects for Milestones
+## Using GitHub Projects for Milestones
 
 A **Project** is a high-level view that allows you to manage and visualize multiple issues.
 
@@ -35,7 +35,7 @@ We recommend using the **Table** or **Board (Kanban)** view.
 -   **Personal Study**: Create a Project for each semester or major research milestone (e.g., "MSc Thesis - Phase 1").
 -   **Package Development**: Use Projects to manage a new feature release or a version update (e.g., "MyPackage.jl v2.0").
 
-## 3. Best Practices & Lab Rules
+## Best Practices & Lab Rules
 
 ::: {.callout-important}
 ## Lab Requirement

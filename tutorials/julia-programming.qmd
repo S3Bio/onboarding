@@ -34,7 +34,7 @@ After installation, verify it by running `julia` in your terminal.
 
 In our lab, every project **must** have its own isolated environment. This ensures that your code remains reproducible even as packages are updated globally.
 
-### 1. Project Activation
+### Project Activation
 Always start your Julia session by activating the local environment.
 
 ```julia
@@ -47,7 +47,7 @@ Alternatively, start Julia with the `--project` flag:
 julia --project
 ```
 
-### 2. Dependency Management
+### Dependency Management
 - **Project.toml**: Lists the packages your project depends on.
 - **Manifest.toml**: Records the exact versions of every dependency (including sub-dependencies).
 
