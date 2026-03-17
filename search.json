@@ -1,0 +1,1145 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "S3Bio Lab Orientation",
+    "section": "",
+    "text": "Welcome\nWelcome to the Systems.Synthetic.Systematic Biology (S3Bio) lab! We are thrilled to have you join our team.\nThis orientation book is designed to help you navigate your first few weeks in the lab.\n\n\n\n\n\n\nNoteFirst Steps\n\n\n\n\nComplete your safety training.\nSet up your lab accounts.\nSchedule a meeting with your mentor.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "sections/about.html",
+    "href": "sections/about.html",
+    "title": "1  About S3Bio Lab",
+    "section": "",
+    "text": "1.1 Our Philosophy\nThe Systems.Synthetic.Systematic Biology (S3Bio) lab focuses on three core pillars:\nWe believe in open science, collaboration, and systematic rigor. Every member of our lab contributes to a culture of innovation and respect.",
+    "crumbs": [
+      "Introduction & Onboarding",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About S3Bio Lab</span>"
+    ]
+  },
+  {
+    "objectID": "sections/getting-started.html",
+    "href": "sections/getting-started.html",
+    "title": "2  Onboarding: Getting Started",
+    "section": "",
+    "text": "2.1 General Setup (All Members)\nWelcome to your first week! Here’s a checklist of things to get set up.",
+    "crumbs": [
+      "Introduction & Onboarding",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Onboarding: Getting Started</span>"
+    ]
+  },
+  {
+    "objectID": "sections/getting-started.html#general-setup-all-members",
+    "href": "sections/getting-started.html#general-setup-all-members",
+    "title": "2  Onboarding: Getting Started",
+    "section": "",
+    "text": "Email & Identity: Got your university email from the University.\nLab Access: Request a face recognition access from the department administrator.\nMS Teams: Join the #S3Bio channel at S3Bio MS Teams.\nEmergency Contact: Fill out the lab’s emergency contact form.",
+    "crumbs": [
+      "Introduction & Onboarding",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Onboarding: Getting Started</span>"
+    ]
+  },
+  {
+    "objectID": "sections/getting-started.html#safety-training-acknowledgment-all-members",
+    "href": "sections/getting-started.html#safety-training-acknowledgment-all-members",
+    "title": "2  Onboarding: Getting Started",
+    "section": "2.2 Safety Training & Acknowledgment (All Members)",
+    "text": "2.2 Safety Training & Acknowledgment (All Members)\n\nPersonal Protection: Read and understand PPE Requirements.\nLab Regulations: Read and understand General Lab Regulations.\nCode of Conduct: Review and sign the Lab Code of Conduct.\nData Policy: Review and sign the Data Management Policy.",
+    "crumbs": [
+      "Introduction & Onboarding",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Onboarding: Getting Started</span>"
+    ]
+  },
+  {
+    "objectID": "sections/getting-started.html#specific-onboarding",
+    "href": "sections/getting-started.html#specific-onboarding",
+    "title": "2  Onboarding: Getting Started",
+    "section": "2.3 Specific Onboarding",
+    "text": "2.3 Specific Onboarding\nPlease follow the checklist for your specific role:\n\nWet Lab MembersDry Lab Members\n\n\n\nBiosafety: Read Biosafety Protocols and complete university BSL-2 training.\nChemical Safety: Read Chemical Safety and locate all SDS for your project.\nWaste Management: Read Waste Management and identify all waste collection points.\nSafety Tour: Complete the in-person wet lab safety walkthrough with your advisor.\nChemical Inventory: Get access to the lab’s chemical tracking system with your advisor.\nEquipment Training: Schedule training for the equipment with your advisor.\n\n\n\n\nGithub Account: Create a GitHub account then send the username and email to your advisor.\nGithub Training: Study the lab’s GitHub workflow and best practices.\nCode of Conduct: Review the lab’s code of conduct and data management policies.\nServer Access: Request access to the high-performance computing (HPC) cluster from your advisor.\nVPN Setup: Configure the university VPN for remote data access.\n\n\n\n\n\n\n\n\n\n\nImportantOnboarding Deadline\n\n\n\nPlease complete these tasks within your first month.",
+    "crumbs": [
+      "Introduction & Onboarding",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Onboarding: Getting Started</span>"
+    ]
+  },
+  {
+    "objectID": "sections/policies.html",
+    "href": "sections/policies.html",
+    "title": "3  Code of Conduct & Data Policies",
+    "section": "",
+    "text": "3.1 Code of Conduct\nThe S3Bio lab is committed to fostering a safe, inclusive, and professionally rigorous environment. All members are expected to adhere to our Code of Conduct and Data Management policies.\nOur lab thrives on collaboration and mutual respect. We expect all members to:",
+    "crumbs": [
+      "Introduction & Onboarding",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Code of Conduct & Data Policies</span>"
+    ]
+  },
+  {
+    "objectID": "sections/policies.html#code-of-conduct",
+    "href": "sections/policies.html#code-of-conduct",
+    "title": "3  Code of Conduct & Data Policies",
+    "section": "",
+    "text": "Be Inclusive: Welcome and support people of all backgrounds and identities.\nBe Considerate: Your work affects others. Communicate early and often about shared resources or equipment.\nBe Professional: Use professional language and conduct in all lab-related communications, including Slack, GitHub, and email.\nAcademic Integrity: Maintain the highest standards of honesty in all research and publication activities. Plagiarism and data fabrication are strictly prohibited.\nReporting: If you experience or witness harassment or unprofessional behavior, please report it to the PI or the university’s ombudsperson.",
+    "crumbs": [
+      "Introduction & Onboarding",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Code of Conduct & Data Policies</span>"
+    ]
+  },
+  {
+    "objectID": "sections/policies.html#data-management-policy",
+    "href": "sections/policies.html#data-management-policy",
+    "title": "3  Code of Conduct & Data Policies",
+    "section": "3.2 Data Management Policy",
+    "text": "3.2 Data Management Policy\nIn the S3Bio lab, data is our most valuable asset. Proper management ensures reproducibility and long-term utility.\n\n3.2.1 Data Storage & Backup\n\nRaw Data: Must be backed up immediately to the lab’s primary network-attached storage (NAS) or designated cloud provider. Never delete raw data.\nActive Projects: Use the lab’s GitHub organization for code and small metadata. Large binaries should be managed via Git LFS or external links.\nPersonal Devices: Lab data should not be stored exclusively on personal laptops. Use the provided sync tools to ensure all work is backed up to lab servers.\n\n\n\n3.2.2 Metadata & Documentation\n\nLab Notebooks: All members must maintain a digital lab notebook (e.g., Benchling, LabArchives, or a dedicated Markdown repo).\nData Dictionary: Every dataset must include a README or data dictionary explaining the variables, units, and collection methods.\n\n\n\n3.2.3 Open Science & Sharing\n\nPublic Release: Upon publication, all relevant code and data must be made publicly available (e.g., via Zenodo, Figshare, or GitHub) unless restricted by IRB or privacy agreements.\nAuthorship: Authorship should be discussed early in a project and follow the CRediT (Contributor Roles Taxonomy) guidelines.\n\n\n\n\n\n\n\nImportantAcknowledgment\n\n\n\nBy working in the S3Bio lab, you agree to uphold these standards. Please sign the policy acknowledgment form during your first week.",
+    "crumbs": [
+      "Introduction & Onboarding",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Code of Conduct & Data Policies</span>"
+    ]
+  },
+  {
+    "objectID": "sections/resources.html",
+    "href": "sections/resources.html",
+    "title": "4  Lab Resources & Protocols",
+    "section": "",
+    "text": "4.1 Computing Resources\nThe S3Bio lab uses a wide range of tools and resources. This chapter provides a guide to our facilities and the standard protocols we follow.",
+    "crumbs": [
+      "Introduction & Onboarding",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lab Resources & Protocols</span>"
+    ]
+  },
+  {
+    "objectID": "sections/resources.html#computing-resources",
+    "href": "sections/resources.html#computing-resources",
+    "title": "4  Lab Resources & Protocols",
+    "section": "",
+    "text": "GitHub: Our organization can be found at github.com/S3Bio. All code should be hosted here.\nHigh-Performance Computing (HPC): We use the university’s cluster for large-scale simulations and data processing. See the Lab Manager for an account.\nShared Drive: Large datasets and administrative documents are stored on our lab NAS.\nZotero: We use a shared Zotero library for literature management.",
+    "crumbs": [
+      "Introduction & Onboarding",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lab Resources & Protocols</span>"
+    ]
+  },
+  {
+    "objectID": "sections/resources.html#lab-equipment-facilities",
+    "href": "sections/resources.html#lab-equipment-facilities",
+    "title": "4  Lab Resources & Protocols",
+    "section": "4.2 Lab Equipment & Facilities",
+    "text": "4.2 Lab Equipment & Facilities\n\nMolecular Biology Suite: Contains our PCR machines, gel electrophoresis equipment, and centrifuges.\nImaging Core: Houses our confocal and fluorescence microscopes. Booking must be done 24 hours in advance via the Booking Portal.\nTissue Culture Lab: Access requires specific Level 2 training.\nCold Storage:\n\n-20°C: Common reagents and enzymes.\n-80°C: Long-term sample storage. Every box must be clearly labeled and logged in the lab inventory.",
+    "crumbs": [
+      "Introduction & Onboarding",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lab Resources & Protocols</span>"
+    ]
+  },
+  {
+    "objectID": "sections/resources.html#standard-operating-procedures-sops",
+    "href": "sections/resources.html#standard-operating-procedures-sops",
+    "title": "4  Lab Resources & Protocols",
+    "section": "4.3 Standard Operating Procedures (SOPs)",
+    "text": "4.3 Standard Operating Procedures (SOPs)\nFollowing these protocols ensures consistency and safety in our research.\n\n4.3.1 Sample Preparation\n\nAll biological samples must be labeled with: Date, Sample ID, and User Initials.\nUse the designated “Clean Room” for high-sensitivity RNA work.\n\n\n\n4.3.2 Data Acquisition\n\nNaming Convention: All files should follow the YYYY-MM-DD_ProjectID_Description format.\nMetadata: Every experiment must have a corresponding entry in the electronic lab notebook (ELN) detailing all experimental parameters.\n\n\n\n4.3.3 Equipment Maintenance\n\nSign-in Logs: Always sign the logbook for the PCR and Imaging systems.\nReporting Faults: If a piece of equipment is malfunctioning, tag it “Out of Order” and notify the Lab Manager immediately.\n\n\n\n4.3.4 Laboratory Hygiene\n\nBench Cleaning: Wipe down your workspace with 70% Ethanol before and after every session.\nWaste Disposal:\n\nRed Bins: Biohazardous waste.\nYellow Bins: Sharps.\nBlue Bins: Non-hazardous glass.\n\n\n\n\n\n\n\n\nNoteAccessing Full Protocols\n\n\n\nA complete list of our detailed experimental protocols (e.g., Miniprep, NGS Library Prep, CRISPR Screen) can be found on our Internal Lab Wiki.",
+    "crumbs": [
+      "Introduction & Onboarding",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lab Resources & Protocols</span>"
+    ]
+  },
+  {
+    "objectID": "sections/lab-safety/personal-protection.html",
+    "href": "sections/lab-safety/personal-protection.html",
+    "title": "5  Personal Protective Equipment (PPE)",
+    "section": "",
+    "text": "5.1 Mandatory PPE\nPersonal Protective Equipment (PPE) is your first line of defense against laboratory hazards. In the S3Bio lab, wearing the correct PPE is mandatory at all times.\nWhenever you are working at a lab bench, you must wear:",
+    "crumbs": [
+      "Lab Safety & Protocols",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Personal Protective Equipment (PPE)</span>"
+    ]
+  },
+  {
+    "objectID": "sections/lab-safety/personal-protection.html#mandatory-ppe",
+    "href": "sections/lab-safety/personal-protection.html#mandatory-ppe",
+    "title": "5  Personal Protective Equipment (PPE)",
+    "section": "",
+    "text": "Lab Coat: Must be buttoned and have long sleeves. Lab coats should stay in the lab and never be worn in common areas (breakrooms, offices).\nGloves: Nitrile gloves are standard. Change your gloves immediately if they become contaminated or torn. Never touch door handles or keyboards with gloved hands.\nEye Protection: Safety glasses or goggles must be worn when handling liquids, chemicals, or biological agents.",
+    "crumbs": [
+      "Lab Safety & Protocols",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Personal Protective Equipment (PPE)</span>"
+    ]
+  },
+  {
+    "objectID": "sections/lab-safety/personal-protection.html#proper-attire",
+    "href": "sections/lab-safety/personal-protection.html#proper-attire",
+    "title": "5  Personal Protective Equipment (PPE)",
+    "section": "5.2 Proper Attire",
+    "text": "5.2 Proper Attire\nBeyond PPE, your general clothing must also provide protection:\n\nClosed-toe Shoes: Sandals, flip-flops, and open-toed shoes are strictly prohibited in the lab.\nLong Pants: Your legs must be fully covered. No shorts or skirts above the knee.\nHair & Jewelry: Tie back long hair and avoid dangling jewelry or loose clothing that could get caught in equipment.",
+    "crumbs": [
+      "Lab Safety & Protocols",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Personal Protective Equipment (PPE)</span>"
+    ]
+  },
+  {
+    "objectID": "sections/lab-safety/personal-protection.html#hygiene",
+    "href": "sections/lab-safety/personal-protection.html#hygiene",
+    "title": "5  Personal Protective Equipment (PPE)",
+    "section": "5.3 Hygiene",
+    "text": "5.3 Hygiene\n\nHand Washing: Always wash your hands thoroughly with soap and water after removing your gloves and before leaving the lab.\nNo Food or Drink: Consumption of food or drink is strictly prohibited in all laboratory areas. Do not store food in lab refrigerators.\n\n\n\n\n\n\n\nImportantPPE Availability\n\n\n\nIf you need a new lab coat or specific types of gloves (e.g., for extreme cold or specific chemicals), contact the Lab Manager immediately.",
+    "crumbs": [
+      "Lab Safety & Protocols",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Personal Protective Equipment (PPE)</span>"
+    ]
+  },
+  {
+    "objectID": "sections/lab-safety/lab-regulations.html",
+    "href": "sections/lab-safety/lab-regulations.html",
+    "title": "6  General Lab Regulations",
+    "section": "",
+    "text": "6.1 Professional Conduct\nA safe and efficient lab environment is built on shared responsibility and adherence to clear regulations.",
+    "crumbs": [
+      "Lab Safety & Protocols",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>General Lab Regulations</span>"
+    ]
+  },
+  {
+    "objectID": "sections/lab-safety/lab-regulations.html#professional-conduct",
+    "href": "sections/lab-safety/lab-regulations.html#professional-conduct",
+    "title": "6  General Lab Regulations",
+    "section": "",
+    "text": "No Lone Working: Avoid working in the lab alone, especially after hours or with hazardous materials. If you must, ensure the PI or a lab mate is aware and checks in on you periodically.\nNo Unauthorized Visitors: All visitors must be approved by the PI and receive a safety briefing before entering the lab.",
+    "crumbs": [
+      "Lab Safety & Protocols",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>General Lab Regulations</span>"
+    ]
+  },
+  {
+    "objectID": "sections/lab-safety/lab-regulations.html#workspace-management",
+    "href": "sections/lab-safety/lab-regulations.html#workspace-management",
+    "title": "6  General Lab Regulations",
+    "section": "6.2 Workspace Management",
+    "text": "6.2 Workspace Management\n\nCleanliness: Keep your assigned bench space organized and clean. Clean up any spills (no matter how small) immediately.\nLabelling: Every container, tube, and box must be clearly labeled with the contents, date, and your initials. Unlabeled containers will be discarded.\nShared Areas: Clean common equipment (e.g., balances, centrifuges, PCR machines) immediately after use.",
+    "crumbs": [
+      "Lab Safety & Protocols",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>General Lab Regulations</span>"
+    ]
+  },
+  {
+    "objectID": "sections/lab-safety/lab-regulations.html#emergency-preparedness",
+    "href": "sections/lab-safety/lab-regulations.html#emergency-preparedness",
+    "title": "6  General Lab Regulations",
+    "section": "6.3 Emergency Preparedness",
+    "text": "6.3 Emergency Preparedness\n\nKnow the Locations: Familiarize yourself with the location of the nearest:\n\nEmergency Exit\nFirst Aid Kit\nFire Extinguisher\nEyewash Station and Safety Shower\n\nIncident Reporting: All accidents, near-misses, and chemical/biological spills must be reported to the PI and the University Safety Office within 24 hours.",
+    "crumbs": [
+      "Lab Safety & Protocols",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>General Lab Regulations</span>"
+    ]
+  },
+  {
+    "objectID": "sections/lab-safety/lab-regulations.html#off-hours-access",
+    "href": "sections/lab-safety/lab-regulations.html#off-hours-access",
+    "title": "6  General Lab Regulations",
+    "section": "6.4 Off-Hours Access",
+    "text": "6.4 Off-Hours Access\n\nAccess Codes: Do not share your lab access code or keycard with anyone.\nSecure the Lab: If you are the last person to leave, ensure all equipment is properly shut down (except for designated always-on machines), the lights are off, and the doors are securely locked.",
+    "crumbs": [
+      "Lab Safety & Protocols",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>General Lab Regulations</span>"
+    ]
+  },
+  {
+    "objectID": "sections/lab-safety/lab-regulations.html#sharps-waste",
+    "href": "sections/lab-safety/lab-regulations.html#sharps-waste",
+    "title": "6  General Lab Regulations",
+    "section": "6.5 Sharps Waste",
+    "text": "6.5 Sharps Waste\n\nSharps Containers: Dispose of all needles, scalpels, and other sharp objects in puncture-resistant, labeled sharps containers.\nNever Recap Needles: Dispose of needles immediately after use without recapping.\nBroken Glass: Use a designated “Broken Glass” box for non-contaminated broken glass. If the glass is contaminated with biological or chemical hazards, treat it appropriately before disposal.",
+    "crumbs": [
+      "Lab Safety & Protocols",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>General Lab Regulations</span>"
+    ]
+  },
+  {
+    "objectID": "sections/lab-safety/lab-regulations.html#regular-trash",
+    "href": "sections/lab-safety/lab-regulations.html#regular-trash",
+    "title": "6  General Lab Regulations",
+    "section": "6.6 Regular Trash",
+    "text": "6.6 Regular Trash\n\nNo Hazards: Ensure that no biological, chemical, or sharps materials end up in the regular trash or recycling bins.\nCleanliness: Keep the trash areas tidy and do not block access to waste containers.\n\n\n\n\n\n\n\nNoteSafety Contact Information\n\n\n\nEmergency contact numbers (PI, Lab Manager, Security) are posted by the main lab entrance.",
+    "crumbs": [
+      "Lab Safety & Protocols",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>General Lab Regulations</span>"
+    ]
+  },
+  {
+    "objectID": "sections/lab-safety/biosafety.html",
+    "href": "sections/lab-safety/biosafety.html",
+    "title": "7  Biosafety Protocols",
+    "section": "",
+    "text": "7.1 Biosafety Levels (BSL)\nThe S3Bio lab handles a variety of biological materials, including bacteria, cell lines, and viral vectors. Adherence to biosafety protocols is essential to protect yourself and the environment.\nOur lab is classified for BSL-2 work.",
+    "crumbs": [
+      "Lab Safety & Protocols",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Biosafety Protocols</span>"
+    ]
+  },
+  {
+    "objectID": "sections/lab-safety/biosafety.html#biosafety-levels-bsl",
+    "href": "sections/lab-safety/biosafety.html#biosafety-levels-bsl",
+    "title": "7  Biosafety Protocols",
+    "section": "",
+    "text": "BSL-1: For agents not known to cause disease in healthy adults (e.g., E. coli K-12).\nBSL-2: For agents associated with human disease (e.g., specific cell lines, viral vectors). Access is restricted, and specialized PPE and containment are required.",
+    "crumbs": [
+      "Lab Safety & Protocols",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Biosafety Protocols</span>"
+    ]
+  },
+  {
+    "objectID": "sections/lab-safety/biosafety.html#biological-safety-cabinet-bsc-usage",
+    "href": "sections/lab-safety/biosafety.html#biological-safety-cabinet-bsc-usage",
+    "title": "7  Biosafety Protocols",
+    "section": "7.2 Biological Safety Cabinet (BSC) Usage",
+    "text": "7.2 Biological Safety Cabinet (BSC) Usage\n\nPre-work: Surface-decontaminate the BSC with 70% ethanol before starting work.\nWork Practices: Keep the air intake grill clear. Work at least 6 inches back from the front opening.\nAseptic Technique: Use proper aseptic techniques to prevent contamination of your samples and the lab environment.\nPost-work: Decontaminate the BSC and run the UV light for the required time (usually 15-20 minutes).",
+    "crumbs": [
+      "Lab Safety & Protocols",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Biosafety Protocols</span>"
+    ]
+  },
+  {
+    "objectID": "sections/lab-safety/biosafety.html#storage-and-transport",
+    "href": "sections/lab-safety/biosafety.html#storage-and-transport",
+    "title": "7  Biosafety Protocols",
+    "section": "7.3 Storage and Transport",
+    "text": "7.3 Storage and Transport\n\nSecondary Containment: Use leak-proof, shatterproof secondary containers when transporting biological materials between labs or to and from cold storage.\nLabeling: Ensure all biological samples are clearly labeled with the agent name, date, and BSL level.",
+    "crumbs": [
+      "Lab Safety & Protocols",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Biosafety Protocols</span>"
+    ]
+  },
+  {
+    "objectID": "sections/lab-safety/biosafety.html#decontamination-and-spills",
+    "href": "sections/lab-safety/biosafety.html#decontamination-and-spills",
+    "title": "7  Biosafety Protocols",
+    "section": "7.4 Decontamination and Spills",
+    "text": "7.4 Decontamination and Spills\n\nSurface Decontamination: Wipe down all work surfaces with a freshly prepared 10% bleach solution or 70% ethanol after every experimental session.\nBiohazard Spills: In case of a biological spill:\n\nAlert others and evacuate the area if needed.\nWait 30 minutes for aerosols to settle.\nFollow the established spill cleanup procedure using the biohazard spill kit.\n\n\n\n\n\n\n\n\nWarningTraining Requirement\n\n\n\nYou must complete the university’s online and in-person biosafety training before beginning any BSL-2 work.",
+    "crumbs": [
+      "Lab Safety & Protocols",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Biosafety Protocols</span>"
+    ]
+  },
+  {
+    "objectID": "sections/lab-safety/chemical-safety.html",
+    "href": "sections/lab-safety/chemical-safety.html",
+    "title": "8  Chemical Safety",
+    "section": "",
+    "text": "8.1 Safety Data Sheets (SDS)\nChemical safety in the S3Bio lab depends on your knowledge of the materials you use and proper handling techniques.\nEvery chemical in the lab has a corresponding SDS. Before using a new chemical: - Review the SDS: Understand the hazards, PPE requirements, and emergency procedures. - Know the Symbols: Be familiar with the GHS hazard symbols (e.g., flammable, corrosive, toxic).",
+    "crumbs": [
+      "Lab Safety & Protocols",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Chemical Safety</span>"
+    ]
+  },
+  {
+    "objectID": "sections/lab-safety/chemical-safety.html#proper-storage",
+    "href": "sections/lab-safety/chemical-safety.html#proper-storage",
+    "title": "8  Chemical Safety",
+    "section": "8.2 Proper Storage",
+    "text": "8.2 Proper Storage\n\nCompatibility: Store chemicals in compatible groups. Never store acids with bases or flammables with oxidizers.\nStorage Cabinets:\n\nFlammable Cabinets: For all flammable liquids.\nAcid/Base Cabinets: For corrosive materials.\n\nSecondary Containment: Use trays to catch any potential leaks or spills in storage.",
+    "crumbs": [
+      "Lab Safety & Protocols",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Chemical Safety</span>"
+    ]
+  },
+  {
+    "objectID": "sections/lab-safety/chemical-safety.html#fume-hood-usage",
+    "href": "sections/lab-safety/chemical-safety.html#fume-hood-usage",
+    "title": "8  Chemical Safety",
+    "section": "8.3 Fume Hood Usage",
+    "text": "8.3 Fume Hood Usage\nUse the fume hood when working with volatile, toxic, or odorous chemicals.\n\nCheck the Airflow: Verify the fume hood is operational before starting work.\nKeep it Clear: Don’t clutter the hood with storage. Keep items at least 6 inches from the front sash.\nSash Height: Keep the sash at or below the designated safe working level.",
+    "crumbs": [
+      "Lab Safety & Protocols",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Chemical Safety</span>"
+    ]
+  },
+  {
+    "objectID": "sections/lab-safety/chemical-safety.html#key-rules",
+    "href": "sections/lab-safety/chemical-safety.html#key-rules",
+    "title": "8  Chemical Safety",
+    "section": "8.4 Key Rules",
+    "text": "8.4 Key Rules\n\nLabel Everything: Even common reagents (like 70% EtOH) must be clearly labeled with the name, concentration, and date.\nNo Mouth Pipetting: Always use a mechanical pipetting device.\nTransport Carefully: Use a bottle carrier when moving glass bottles of chemicals.\nNever Mix Concentrated Acids with Water: Always add acid to water slowly, with stirring.\n\n\n\n\n\n\n\nImportantChemical Inventory\n\n\n\nOur lab uses an online inventory system. If you use the last of a chemical, mark it for reorder immediately.",
+    "crumbs": [
+      "Lab Safety & Protocols",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Chemical Safety</span>"
+    ]
+  },
+  {
+    "objectID": "sections/lab-safety/waste-management.html",
+    "href": "sections/lab-safety/waste-management.html",
+    "title": "9  Waste Management",
+    "section": "",
+    "text": "9.1 Biological Waste\nProper waste management is crucial for the safety of our lab members, the university’s facility staff, and the environment.\nAll biological waste must be decontaminated before final disposal.",
+    "crumbs": [
+      "Lab Safety & Protocols",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Waste Management</span>"
+    ]
+  },
+  {
+    "objectID": "sections/lab-safety/waste-management.html#biological-waste",
+    "href": "sections/lab-safety/waste-management.html#biological-waste",
+    "title": "9  Waste Management",
+    "section": "",
+    "text": "Solid Biohazard Waste: Dispose of in red biohazard bags. Do not overfill (max 2/3 full). Red bags must be autoclaved before disposal in regular trash.\nLiquid Biohazard Waste: Treat with a final concentration of 10% bleach for 30 minutes before pouring down the drain with plenty of water.",
+    "crumbs": [
+      "Lab Safety & Protocols",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Waste Management</span>"
+    ]
+  },
+  {
+    "objectID": "sections/lab-safety/waste-management.html#chemical-waste",
+    "href": "sections/lab-safety/waste-management.html#chemical-waste",
+    "title": "9  Waste Management",
+    "section": "9.2 Chemical Waste",
+    "text": "9.2 Chemical Waste\nChemical waste must be collected in compatible containers and disposed of through the university’s environmental health and safety (EHS) office.\n\nCollection: Use designated, labeled waste containers. Never mix incompatible wastes (e.g., flammables and oxidizers).\nLabelling: Each waste container must have a university-approved waste tag listing all components and their approximate concentrations.\nStorage: Keep waste containers closed at all times, except when adding waste. Store in a secondary containment tray.",
+    "crumbs": [
+      "Lab Safety & Protocols",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Waste Management</span>"
+    ]
+  },
+  {
+    "objectID": "sections/lab-safety/waste-management.html#sharps-waste",
+    "href": "sections/lab-safety/waste-management.html#sharps-waste",
+    "title": "9  Waste Management",
+    "section": "9.3 Sharps Waste",
+    "text": "9.3 Sharps Waste\n\nSharps Containers: Dispose of all needles, scalpels, and other sharp objects in puncture-resistant, labeled sharps containers.\nNever Recap Needles: Dispose of needles immediately after use without recapping.\nBroken Glass: Use a designated “Broken Glass” box for non-contaminated broken glass. If the glass is contaminated with biological or chemical hazards, treat it appropriately before disposal.",
+    "crumbs": [
+      "Lab Safety & Protocols",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Waste Management</span>"
+    ]
+  },
+  {
+    "objectID": "sections/lab-safety/waste-management.html#regular-trash",
+    "href": "sections/lab-safety/waste-management.html#regular-trash",
+    "title": "9  Waste Management",
+    "section": "9.4 Regular Trash",
+    "text": "9.4 Regular Trash\n\nNo Hazards: Ensure that no biological, chemical, or sharps materials end up in the regular trash or recycling bins.\nCleanliness: Keep the trash areas tidy and do not block access to waste containers.\n\n\n\n\n\n\n\nImportantWaste Collection\n\n\n\nContact the Lab Manager when waste containers are 3/4 full to schedule a pickup by EHS.",
+    "crumbs": [
+      "Lab Safety & Protocols",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Waste Management</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/git-fundamentals.html",
+    "href": "tutorials/git-fundamentals.html",
+    "title": "10  Git Fundamentals",
+    "section": "",
+    "text": "10.1 1. Installation\nGit is a version control system that tracks changes to your files. This tutorial will get you comfortable with the essential Git commands used in the S3Bio lab.\nBefore you can use Git, you need to install it on your machine.",
+    "crumbs": [
+      "Git & GitHub Tutorial",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Git Fundamentals</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/git-fundamentals.html#installation",
+    "href": "tutorials/git-fundamentals.html#installation",
+    "title": "10  Git Fundamentals",
+    "section": "",
+    "text": "WindowsmacOSLinux\n\n\n\nDownload the Git for Windows installer from git-scm.com.\nRun the installer and follow the prompts. We recommend the default settings unless you have specific requirements.\nThis will also install Git Bash, a terminal that provides a Linux-like environment for running Git commands.\n\n\n\nThe easiest way to install Git on macOS is via Homebrew:\nbrew install git\nAlternatively, you can install it by running any Git command (like git --version) in the Terminal, which will prompt you to install the Xcode Command Line Tools.\n\n\nOn Debian-based systems (like Ubuntu), use apt:\nsudo apt-get update\nsudo apt-get install git\nOn Fedora/Red Hat-based systems, use dnf:\nsudo dnf install git",
+    "crumbs": [
+      "Git & GitHub Tutorial",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Git Fundamentals</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/git-fundamentals.html#setting-up-git",
+    "href": "tutorials/git-fundamentals.html#setting-up-git",
+    "title": "10  Git Fundamentals",
+    "section": "10.2 Setting Up Git",
+    "text": "10.2 Setting Up Git\nFirst, configure your name and email. This information will be attached to every commit you make.\ngit config --global user.name \"Your Name\"\ngit config --global user.email \"your.email@example.com\"",
+    "crumbs": [
+      "Git & GitHub Tutorial",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Git Fundamentals</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/git-fundamentals.html#basic-workflow",
+    "href": "tutorials/git-fundamentals.html#basic-workflow",
+    "title": "10  Git Fundamentals",
+    "section": "10.3 Basic Workflow",
+    "text": "10.3 Basic Workflow\nThe core Git workflow consists of three steps: Edit, Stage, and Commit.\n\n10.3.1 Initializing a Repository\nTo start tracking a new project:\ncd my-project\ngit init\n\n\n10.3.2 Tracking Changes\nTo see the status of your files:\ngit status\nTo stage a file for a commit:\ngit add filename.txt\n# Or stage everything\ngit add .\n\n\n10.3.3 Committing Changes\nTo save your staged changes to the repository history:\ngit commit -m \"feat: add initial analysis script\"",
+    "crumbs": [
+      "Git & GitHub Tutorial",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Git Fundamentals</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/git-fundamentals.html#reviewing-history",
+    "href": "tutorials/git-fundamentals.html#reviewing-history",
+    "title": "10  Git Fundamentals",
+    "section": "10.4 Reviewing History",
+    "text": "10.4 Reviewing History\nTo see a list of all commits in your repository:\ngit log --oneline --graph --decorate",
+    "crumbs": [
+      "Git & GitHub Tutorial",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Git Fundamentals</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/git-fundamentals.html#undoing-changes",
+    "href": "tutorials/git-fundamentals.html#undoing-changes",
+    "title": "10  Git Fundamentals",
+    "section": "10.5 Undoing Changes",
+    "text": "10.5 Undoing Changes\nIf you’ve made a mistake, you can discard changes to a file that haven’t been staged yet:\ngit checkout -- filename.txt\n\n\n\n\n\n\nTipLearn More\n\n\n\nFor a deeper dive into Git commands, we recommend the Pro Git Book.",
+    "crumbs": [
+      "Git & GitHub Tutorial",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Git Fundamentals</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/github-collaboration.html",
+    "href": "tutorials/github-collaboration.html",
+    "title": "11  GitHub Collaboration",
+    "section": "",
+    "text": "11.1 1. Remote Repositories\nGitHub is a hosting service for Git repositories that makes it easy to collaborate with other lab members.\nA remote is a version of your project that is hosted on the internet (like GitHub).",
+    "crumbs": [
+      "Git & GitHub Tutorial",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>GitHub Collaboration</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/github-collaboration.html#remote-repositories",
+    "href": "tutorials/github-collaboration.html#remote-repositories",
+    "title": "11  GitHub Collaboration",
+    "section": "",
+    "text": "11.1.1 Cloning a Repository\nTo download a repository from the S3Bio organization:\ngit clone https://github.com/S3Bio/repo-name.git\n\n\n11.1.2 Pushing Changes\nTo upload your local commits to GitHub:\ngit push origin main\n# Replace 'main' with your branch name (e.g., 'feature/new-analysis')\n\n\n11.1.3 Pulling Changes\nTo update your local repository with changes from GitHub:\ngit pull origin main",
+    "crumbs": [
+      "Git & GitHub Tutorial",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>GitHub Collaboration</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/github-collaboration.html#forking-and-pull-requests-prs",
+    "href": "tutorials/github-collaboration.html#forking-and-pull-requests-prs",
+    "title": "11  GitHub Collaboration",
+    "section": "11.2 2. Forking and Pull Requests (PRs)",
+    "text": "11.2 2. Forking and Pull Requests (PRs)\nIf you don’t have write access to a repository, you can fork it, which creates a personal copy on your GitHub account.\n\nFork the repository on GitHub.\nClone your fork locally.\nMake changes and push them to your fork.\nOpen a Pull Request on the original repository to propose your changes.",
+    "crumbs": [
+      "Git & GitHub Tutorial",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>GitHub Collaboration</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/github-collaboration.html#resolving-merge-conflicts",
+    "href": "tutorials/github-collaboration.html#resolving-merge-conflicts",
+    "title": "11  GitHub Collaboration",
+    "section": "11.3 3. Resolving Merge Conflicts",
+    "text": "11.3 3. Resolving Merge Conflicts\nA merge conflict happens when two people change the same part of a file in different ways.\n\nGit will mark the conflict in the file: text     &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD     Changes in your current branch     =======     Changes from the other branch     &gt;&gt;&gt;&gt;&gt;&gt;&gt; branch-name\nManually edit the file to choose the correct version.\nStage the resolved file: git add filename.txt.\nCommit the resolution: git commit.",
+    "crumbs": [
+      "Git & GitHub Tutorial",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>GitHub Collaboration</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/github-collaboration.html#issues-and-collaboration",
+    "href": "tutorials/github-collaboration.html#issues-and-collaboration",
+    "title": "11  GitHub Collaboration",
+    "section": "11.4 4. Issues and Collaboration",
+    "text": "11.4 4. Issues and Collaboration\nUse GitHub Issues to report bugs, request features, or discuss project ideas. Tag your teammates using their @username to notify them.\n\n\n\n\n\n\nNoteLab Rules\n\n\n\nAlways refer to our GitHub Workflow & Best Practices for the lab’s specific rules on branching and code reviews.",
+    "crumbs": [
+      "Git & GitHub Tutorial",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>GitHub Collaboration</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/github-workflow.html",
+    "href": "tutorials/github-workflow.html",
+    "title": "12  GitHub Workflow & Best Practices",
+    "section": "",
+    "text": "12.1 Our Workflow: The Feature Branch Model\nThe S3Bio lab uses GitHub for version control, collaboration, and project management. Following a consistent workflow ensures that our research is reproducible and our codebase is maintainable.\nWe follow a standard feature branch workflow to keep our main branch stable.",
+    "crumbs": [
+      "Git & GitHub Tutorial",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>GitHub Workflow & Best Practices</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/github-workflow.html#our-workflow-the-feature-branch-model",
+    "href": "tutorials/github-workflow.html#our-workflow-the-feature-branch-model",
+    "title": "12  GitHub Workflow & Best Practices",
+    "section": "",
+    "text": "Create a Branch: Never work directly on main. Create a descriptive branch name (e.g., feature/rna-seq-analysis or bugfix/fix-plotting-error).\nCommit Often: Make small, frequent commits with clear messages.\nOpen a Pull Request (PR): Once your work is ready (or even while it’s in progress), open a PR to merge into main.\nCode Review: At least one other lab member must review and approve your PR before it can be merged.\nMerge and Delete: After approval and successful CI checks, merge the PR and delete the feature branch.",
+    "crumbs": [
+      "Git & GitHub Tutorial",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>GitHub Workflow & Best Practices</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/github-workflow.html#commit-message-conventions",
+    "href": "tutorials/github-workflow.html#commit-message-conventions",
+    "title": "12  GitHub Workflow & Best Practices",
+    "section": "12.2 Commit Message Conventions",
+    "text": "12.2 Commit Message Conventions\nGood commit messages make it easier to track changes. We recommend the following format:\n[Type]: Short description (max 50 chars)\nCommon types: - feat: A new feature or analysis. - fix: A bug fix. - docs: Documentation changes. - refactor: Code changes that neither fix a bug nor add a feature. - data: Adding or updating small data files.",
+    "crumbs": [
+      "Git & GitHub Tutorial",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>GitHub Workflow & Best Practices</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/github-workflow.html#repository-structure",
+    "href": "tutorials/github-workflow.html#repository-structure",
+    "title": "12  GitHub Workflow & Best Practices",
+    "section": "12.3 Repository Structure",
+    "text": "12.3 Repository Structure\nTo keep our projects organized, please follow this general directory structure:\nproject-name/\n├── data/           # Raw and processed data (see note below)\n├── docs/           # Project-specific documentation\n├── results/        # Output plots, tables, and reports\n├── src/            # Source code (R, Python, etc.)\n├── README.md       # Project overview and instructions\n└── .gitignore      # Files to exclude from version control",
+    "crumbs": [
+      "Git & GitHub Tutorial",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>GitHub Workflow & Best Practices</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/github-workflow.html#best-practices",
+    "href": "tutorials/github-workflow.html#best-practices",
+    "title": "12  GitHub Workflow & Best Practices",
+    "section": "12.4 Best Practices",
+    "text": "12.4 Best Practices\n\n\n\n\n\n\nImportantSecurity First\n\n\n\nNEVER commit sensitive information such as API keys, passwords, or private laboratory credentials. Use .env files and ensure they are listed in your .gitignore.\n\n\n\nData Management: Avoid committing large datasets (&gt;50MB). Use our lab’s shared drive or specialized data repositories for large files, and include a script in src/ to download or process them.\nReproducibility: Ensure your code is well-commented and includes a requirements.txt or environment.yml file.\nREADME: Every repository should have a README.md that explains the project’s purpose, how to install dependencies, and how to run the analysis.\nIssues: Use GitHub Issues to track tasks, bugs, and feature requests.",
+    "crumbs": [
+      "Git & GitHub Tutorial",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>GitHub Workflow & Best Practices</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/personal-github-repo.html",
+    "href": "tutorials/personal-github-repo.html",
+    "title": "13  Personal GitHub Repositories for Study Management",
+    "section": "",
+    "text": "13.1 Why a Personal Study Repository?\nWhile the S3Bio GitHub organization is for official lab projects, we highly recommend that every student and researcher maintains a personal GitHub repository for study planning, personal documentation, and tracking their research journey.\nA personal repository acts as your “digital lab notebook” and “career portfolio.”",
+    "crumbs": [
+      "Git & GitHub Tutorial",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Personal GitHub Repositories for Study Management</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/personal-github-repo.html#why-a-personal-study-repository",
+    "href": "tutorials/personal-github-repo.html#why-a-personal-study-repository",
+    "title": "13  Personal GitHub Repositories for Study Management",
+    "section": "",
+    "text": "Plan & Track: Use GitHub Issues and Projects to plan your weekly tasks and long-term milestones.\nConsolidate: Keep your study notes, literature reviews, and personal learning resources in one place.\nReflect: Tracking your results and observations over time helps you see your progress and refine your methods.",
+    "crumbs": [
+      "Git & GitHub Tutorial",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Personal GitHub Repositories for Study Management</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/personal-github-repo.html#best-practice-structure",
+    "href": "tutorials/personal-github-repo.html#best-practice-structure",
+    "title": "13  Personal GitHub Repositories for Study Management",
+    "section": "13.2 Best Practice Structure",
+    "text": "13.2 Best Practice Structure\nWe recommend a structure similar to this for your personal research/study repo:\nresearch-journal/\n├── planning/          # Weekly plans, meeting notes, project proposals\n├── notes/             # Literature reviews, course notes, technique summaries\n├── scripts/           # Personal helper scripts or learning exercises\n├── results-archive/   # Summaries of your key findings (not raw data)\n└── README.md          # Overview of your research interests and current goals",
+    "crumbs": [
+      "Git & GitHub Tutorial",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Personal GitHub Repositories for Study Management</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/personal-github-repo.html#study-planning-with-github-tools",
+    "href": "tutorials/personal-github-repo.html#study-planning-with-github-tools",
+    "title": "13  Personal GitHub Repositories for Study Management",
+    "section": "13.3 Study Planning with GitHub Tools",
+    "text": "13.3 Study Planning with GitHub Tools\n\n13.3.1 Using Issues for Tasks\nTreat every task (e.g., “Read Paper X,” “Run Simulation Y”) as a GitHub Issue. This allows you to: - Assign labels (e.g., Priority: High, Category: Reading). - Keep a history of your thought process in the comments. - Link issues to your code commits.\n\n\n13.3.2 Using Projects for Milestones\nUse a GitHub Project (Kanban board) to visualize your progress across To Do, In Progress, and Done columns.",
+    "crumbs": [
+      "Git & GitHub Tutorial",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Personal GitHub Repositories for Study Management</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/personal-github-repo.html#keeping-results-and-data",
+    "href": "tutorials/personal-github-repo.html#keeping-results-and-data",
+    "title": "13  Personal GitHub Repositories for Study Management",
+    "section": "13.4 Keeping Results and Data",
+    "text": "13.4 Keeping Results and Data\n\n\n\n\n\n\nWarningData Security Rule\n\n\n\nNever commit large, sensitive, or raw datasets to your personal repository. Use the lab’s shared drive or official repositories for these.\n\n\n\nSummaries Only: Your personal repo should contain summaries (plots, key tables, observations) rather than raw data.\nLinks: Store links to the official lab datasets in your planning documents to maintain a connection between your notes and the source of truth.",
+    "crumbs": [
+      "Git & GitHub Tutorial",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Personal GitHub Repositories for Study Management</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/personal-github-repo.html#privacy-and-sharing",
+    "href": "tutorials/personal-github-repo.html#privacy-and-sharing",
+    "title": "13  Personal GitHub Repositories for Study Management",
+    "section": "13.5 Privacy and Sharing",
+    "text": "13.5 Privacy and Sharing\n\nPublic vs. Private: You can keep your study repo private, but we encourage making sections of it public to build your professional profile.\nCollaboration: You can invite your advisor as a collaborator to your private repo for more direct feedback on your planning and notes.\n\n\n\n\n\n\n\nTipLab Requirement\n\n\n\nDuring your monthly check-in, be prepared to share your recent planning and study notes from your repository. This helps your advisor provide better support for your learning and research.",
+    "crumbs": [
+      "Git & GitHub Tutorial",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Personal GitHub Repositories for Study Management</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/github-project-management.html",
+    "href": "tutorials/github-project-management.html",
+    "title": "14  GitHub Project Management: Issues & Projects",
+    "section": "",
+    "text": "14.1 Using GitHub Issues for Tasks\nIn the S3Bio lab, we use GitHub’s built-in project management tools to organize our work, whether for individual study plans or collaborative package development.\nAn Issue is a single, actionable unit of work.",
+    "crumbs": [
+      "Git & GitHub Tutorial",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>GitHub Project Management: Issues & Projects</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/github-project-management.html#using-github-issues-for-tasks",
+    "href": "tutorials/github-project-management.html#using-github-issues-for-tasks",
+    "title": "14  GitHub Project Management: Issues & Projects",
+    "section": "",
+    "text": "14.1.1 For Study Management\nTreat every study-related task as an issue in your personal repository.\n\nTitle: Clear and concise (e.g., “Read & summarize Smith (2024) paper”).\nDescription: Detailed notes, checkboxes for sub-tasks, and links to relevant files.\nLabels: Use labels like Priority: High, Topic: Modelling, or Status: To Read.\nComments: Use comments to record your thoughts, questions, and progress.\n\n\n\n14.1.2 For Package Development\nIssues are the standard way to track bugs, features, and improvements.\n\nTemplates: Use issue templates (Bug Report, Feature Request) to ensure all necessary information is provided.\nReferences: Link issues to specific lines of code or other issues using their ID (e.g., #42).\nMilestones: Assign issues to a specific Milestone to track progress towards a release.",
+    "crumbs": [
+      "Git & GitHub Tutorial",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>GitHub Project Management: Issues & Projects</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/github-project-management.html#using-github-projects-for-milestones",
+    "href": "tutorials/github-project-management.html#using-github-projects-for-milestones",
+    "title": "14  GitHub Project Management: Issues & Projects",
+    "section": "14.2 Using GitHub Projects for Milestones",
+    "text": "14.2 Using GitHub Projects for Milestones\nA Project is a high-level view that allows you to manage and visualize multiple issues.\n\n14.2.1 Setting Up a Project\nWe recommend using the Table or Board (Kanban) view.\n\nBoard View: Organizes issues into columns like To Do, In Progress, and Done. This is ideal for tracking day-to-day progress.\nTable View: Useful for a more detailed, spreadsheet-like view of all tasks and their metadata.\n\n\n\n14.2.2 Project Milestones and Goals\n\nPersonal Study: Create a Project for each semester or major research milestone (e.g., “MSc Thesis - Phase 1”).\nPackage Development: Use Projects to manage a new feature release or a version update (e.g., “MyPackage.jl v2.0”).",
+    "crumbs": [
+      "Git & GitHub Tutorial",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>GitHub Project Management: Issues & Projects</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/github-project-management.html#best-practices-lab-rules",
+    "href": "tutorials/github-project-management.html#best-practices-lab-rules",
+    "title": "14  GitHub Project Management: Issues & Projects",
+    "section": "14.3 Best Practices & Lab Rules",
+    "text": "14.3 Best Practices & Lab Rules\n\n\n\n\n\n\nImportantLab Requirement\n\n\n\nAll tasks and bugs for official lab packages must be recorded as GitHub Issues. This ensures that the history of the package’s development is transparent and documented.\n\n\n\nKeep it Actionable: Every issue should have a clear “definition of done.”\nClose Issues Promptly: Once a task is complete or a bug is fixed, close the issue and link to the relevant commit or PR.\nRegular Reviews: During your weekly or monthly meetings with your advisor, use your GitHub Project board as the primary tool for discussing your progress and future plans.\n\n\n\n\n\n\n\nTipLearn More\n\n\n\n\nGitHub Issues Documentation\nGitHub Projects Documentation",
+    "crumbs": [
+      "Git & GitHub Tutorial",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>GitHub Project Management: Issues & Projects</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/quarto-basics.html",
+    "href": "tutorials/quarto-basics.html",
+    "title": "15  Quarto Basics",
+    "section": "",
+    "text": "15.1 Installation\nQuarto is the primary tool we use in the S3Bio lab for documenting our research, performing data analysis, and creating reports. It allows us to combine text, code, and results into a single, professional document.\nBefore using Quarto, you need to install it on your system.",
+    "crumbs": [
+      "Quarto & Julia for Reproducible Research",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Quarto Basics</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/quarto-basics.html#installation",
+    "href": "tutorials/quarto-basics.html#installation",
+    "title": "15  Quarto Basics",
+    "section": "",
+    "text": "WindowsmacOSLinux\n\n\n\nDownload the latest Windows MSI installer from the Quarto Download page.\nRun the installer and follow the instructions.\nVerify the installation by opening a terminal (PowerShell or Git Bash) and running: bash  quarto --version\n\n\n\nThe easiest way to install Quarto on macOS is via Homebrew:\nbrew install --cask quarto\nAlternatively, you can download the .pkg installer from the Quarto website.\n\n\nOn Debian-based systems (like Ubuntu), download the .deb file and install it:\n# Example for version 1.4.549\nsudo gdebi quarto-1.4.549-linux-amd64.deb\nFor other distributions, you can download the .tar.gz file and extract it to your desired location.",
+    "crumbs": [
+      "Quarto & Julia for Reproducible Research",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Quarto Basics</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/quarto-basics.html#the-anatomy-of-a-quarto-document",
+    "href": "tutorials/quarto-basics.html#the-anatomy-of-a-quarto-document",
+    "title": "15  Quarto Basics",
+    "section": "15.2 The Anatomy of a Quarto Document",
+    "text": "15.2 The Anatomy of a Quarto Document\nA .qmd file consists of three main parts:\n\nYAML Header: Contained between --- at the top of the file. It defines the document’s title, author, output format, and other metadata.\n---\ntitle: \"My Analysis\"\nauthor: \"S3Bio Lab Member\"\nformat: html\nengine: julia\n---\nMarkdown Text: The narrative part of your document, where you explain your methods and interpret your results.\nCode Cells: Blocks of code (R, Python, or Julia) that perform your analysis and generate outputs like plots and tables.",
+    "crumbs": [
+      "Quarto & Julia for Reproducible Research",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Quarto Basics</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/quarto-basics.html#markdown-basics",
+    "href": "tutorials/quarto-basics.html#markdown-basics",
+    "title": "15  Quarto Basics",
+    "section": "15.3 Markdown Basics",
+    "text": "15.3 Markdown Basics\nThe narrative part of your document is written in Markdown. Here are some commonly used commands:\n\n\n\nFeature\nSyntax\n\n\n\n\nHeaders\n# Header 1, ## Header 2, ### Header 3\n\n\nEmphasis\n*italic*, **bold**, ***bold italic***\n\n\nLists\n- Item 1 (unordered), 1. Item 1 (ordered)\n\n\nLinks\n[S3Bio Lab](https://github.com/S3Bio)\n\n\nImages\n![Caption](logo.png)\n\n\nTables\n| Column 1 | Column 2 | (see example below)\n\n\nBlockquotes\n&gt; This is a quote\n\n\nInline Code\n`code`\n\n\nMath (LaTeX)\n$E = mc^2$ (inline), $$ \\dots $$ (block)\n\n\n\n\n15.3.1 Example Table\n| Method | Speed | Accuracy |\n|--------|-------|----------|\n| A      | Fast  | High     |\n| B      | Slow  | Medium   |",
+    "crumbs": [
+      "Quarto & Julia for Reproducible Research",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Quarto Basics</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/quarto-basics.html#code-cells",
+    "href": "tutorials/quarto-basics.html#code-cells",
+    "title": "15  Quarto Basics",
+    "section": "15.4 Code Cells",
+    "text": "15.4 Code Cells\nTo add a code cell, use triple backticks followed by the language in curly braces:\n```{julia}\n#| label: example-plot\n#| fig-cap: \"An example plot in Julia\"\nusing Plots\nx = 1:10; y = rand(10);\nplot(x, y, title=\"S3Bio Lab Example\")\n```\nThe #| lines are cell options that control how the code and its output are displayed.",
+    "crumbs": [
+      "Quarto & Julia for Reproducible Research",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Quarto Basics</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/quarto-basics.html#rendering-documents",
+    "href": "tutorials/quarto-basics.html#rendering-documents",
+    "title": "15  Quarto Basics",
+    "section": "15.5 Rendering Documents",
+    "text": "15.5 Rendering Documents\nTo “render” your .qmd file into its final format (HTML, PDF, or Word), use the Render button in your IDE (like RStudio or VS Code) or the command line:\nquarto render my-document.qmd",
+    "crumbs": [
+      "Quarto & Julia for Reproducible Research",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Quarto Basics</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/quarto-basics.html#why-we-use-quarto",
+    "href": "tutorials/quarto-basics.html#why-we-use-quarto",
+    "title": "15  Quarto Basics",
+    "section": "15.6 Why We Use Quarto",
+    "text": "15.6 Why We Use Quarto\n\nReproducibility: The results are generated directly from the code.\nTransparency: Your analysis logic is clear and well-documented.\nFlexibility: One document can be rendered into multiple formats.\n\n\n\n\n\n\n\nTipResources\n\n\n\nCheck out the official Quarto documentation for a comprehensive guide.",
+    "crumbs": [
+      "Quarto & Julia for Reproducible Research",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Quarto Basics</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/julia-programming.html",
+    "href": "tutorials/julia-programming.html",
+    "title": "16  Julia Programming",
+    "section": "",
+    "text": "16.1 Installation\nJulia is the primary language for numerical analysis and simulation in the S3Bio lab. Its “high-level” syntax combined with “low-level” performance makes it ideal for systems biology.\nWe recommend using juliaup, the official Julia installer and version multiplexer. It makes it easy to install and update different versions of Julia.\nAfter installation, verify it by running julia in your terminal.",
+    "crumbs": [
+      "Quarto & Julia for Reproducible Research",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Julia Programming</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/julia-programming.html#installation",
+    "href": "tutorials/julia-programming.html#installation",
+    "title": "16  Julia Programming",
+    "section": "",
+    "text": "WindowsmacOSLinux\n\n\nOpen a terminal (PowerShell or Command Prompt) and run:\nwinget install julia -s msstore\n\n\nUse Homebrew to install juliaup:\nbrew install juliaup\n\n\nRun the following command in your shell:\ncurl -fsSL https://install.julialang.org | sh",
+    "crumbs": [
+      "Quarto & Julia for Reproducible Research",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Julia Programming</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/julia-programming.html#working-directory-environment-best-practices",
+    "href": "tutorials/julia-programming.html#working-directory-environment-best-practices",
+    "title": "16  Julia Programming",
+    "section": "16.2 Working Directory & Environment Best Practices",
+    "text": "16.2 Working Directory & Environment Best Practices\nIn our lab, every project must have its own isolated environment. This ensures that your code remains reproducible even as packages are updated globally.\n\n16.2.1 Project Activation\nAlways start your Julia session by activating the local environment.\nusing Pkg\nPkg.activate(\".\")\nAlternatively, start Julia with the --project flag:\njulia --project\n\n\n16.2.2 Dependency Management\n\nProject.toml: Lists the packages your project depends on.\nManifest.toml: Records the exact versions of every dependency (including sub-dependencies).\n\nLab Rule: Always commit both Project.toml and Manifest.toml to your Git repository.\n\n\n\n\n\n\nTipLearn More\n\n\n\n\nOfficial Julia Documentation\nModern Julia Workflows",
+    "crumbs": [
+      "Quarto & Julia for Reproducible Research",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Julia Programming</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/julia-data-analysis.html",
+    "href": "tutorials/julia-data-analysis.html",
+    "title": "17  Julia for Data Analysis",
+    "section": "",
+    "text": "17.1 Data Collection & Import\nIn the S3Bio lab, our data analysis workflow is a systematic process built on the JuliaStats and Tidier.jl ecosystems. This chapter breaks down our best practices across the five core stages of research analysis.\nWe use TidierFiles.jl for a Tidyverse-consistent data import experience.",
+    "crumbs": [
+      "Quarto & Julia for Reproducible Research",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Julia for Data Analysis</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/julia-data-analysis.html#data-collection-import",
+    "href": "tutorials/julia-data-analysis.html#data-collection-import",
+    "title": "17  Julia for Data Analysis",
+    "section": "",
+    "text": "17.1.1 Best Practices\n\nStandardized Inputs: Prefer CSV or Arrow formats for tabular data.\nRemote Data: If your data is hosted online, use download() before reading.\nLab Rule: Always read data as a DataFrame to ensure compatibility with our Tidy tools.\n\nusing Tidier, StatsKit\n\n# Importing from a local CSV\ndf_raw = read_csv(\"data/raw_experiment_data.csv\")",
+    "crumbs": [
+      "Quarto & Julia for Reproducible Research",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Julia for Data Analysis</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/julia-data-analysis.html#data-preprocessing-cleaning",
+    "href": "tutorials/julia-data-analysis.html#data-preprocessing-cleaning",
+    "title": "17  Julia for Data Analysis",
+    "section": "17.2 Data Preprocessing & Cleaning",
+    "text": "17.2 Data Preprocessing & Cleaning\nData cleaning is the most critical step for reproducibility. We use TidierData.jl to create clear, auditable cleaning pipelines.\n\n17.2.1 Best Practices\n\nHandle Missing Values: Explicitly deal with missing values using @filter(!ismissing(col)) or imputation.\nType Conversion: Ensure columns have correct types (e.g., categorical for genotypes).\nNormalization: Perform all scaling and normalization within the cleaning pipeline.\n\ndf_clean = @chain df_raw begin\n    @filter(!ismissing(quality))\n    @mutate(genotype = categorical(genotype))\n    @mutate(value_norm = (value - mean(value)) / std(value))\nend",
+    "crumbs": [
+      "Quarto & Julia for Reproducible Research",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Julia for Data Analysis</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/julia-data-analysis.html#exploratory-data-analysis-eda",
+    "href": "tutorials/julia-data-analysis.html#exploratory-data-analysis-eda",
+    "title": "17  Julia for Data Analysis",
+    "section": "17.3 Exploratory Data Analysis (EDA)",
+    "text": "17.3 Exploratory Data Analysis (EDA)\nEDA allows us to understand the distributions and relationships in our data before formal modeling.\n\n17.3.1 Best Practices\n\nSummarization: Use @group_by and @summarize to calculate key metrics.\nQuick Visualization: Use TidierPlots.jl to spot outliers or trends.\n\n# Summarizing by group\nsummary_stats = @chain df_clean begin\n    @group_by(genotype, treatment)\n    @summarize(mean_val = mean(value_norm), n = n())\nend\n\n# Quick EDA plot\ndf_clean |&gt;\n    ggplot(aes(x = :value_norm, fill = :genotype)) +\n    geom_density(alpha = 0.5)",
+    "crumbs": [
+      "Quarto & Julia for Reproducible Research",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Julia for Data Analysis</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/julia-data-analysis.html#statistical-analysis",
+    "href": "tutorials/julia-data-analysis.html#statistical-analysis",
+    "title": "17  Julia for Data Analysis",
+    "section": "17.4 Statistical Analysis",
+    "text": "17.4 Statistical Analysis\nFor formal hypothesis testing and modeling, we transition to the robust JuliaStats ecosystem, primarily GLM.jl and MixedModels.jl.\n\n17.4.1 Best Practices\n\nModel Choice: Use lm() for simple linear models and lme() for mixed-effects models (when you have biological replicates).\nInference: Always report effect sizes and confidence intervals, not just p-values.\n\n# Fitting a Linear Model\nmodel = lm(@formula(value_norm ~ genotype * treatment), df_clean)\n\n# Inspecting results\nprintln(coeftable(model))\nprintln(\"R²: \", r2(model))",
+    "crumbs": [
+      "Quarto & Julia for Reproducible Research",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Julia for Data Analysis</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/julia-data-analysis.html#data-presentation",
+    "href": "tutorials/julia-data-analysis.html#data-presentation",
+    "title": "17  Julia for Data Analysis",
+    "section": "17.5 Data Presentation",
+    "text": "17.5 Data Presentation\nPresentation-quality figures and tables are the final output of our workflow.\n\n17.5.1 Best Practices\n\nLayered Graphics: Build complex plots layer-by-layer using TidierPlots.jl.\nTheming: Use consistent themes (e.g., theme_minimal()) and lab-standard color palettes.\nExporting: Save figures as vector graphics (.pdf or .svg) for publication.\n\nfinal_plot = df_clean |&gt;\n    ggplot(aes(x = :genotype, y = :value_norm, color = :treatment)) +\n    geom_boxplot(outlier_shape = NA) +\n    geom_jitter(width = 0.2, alpha = 0.5) +\n    labs(\n        title = \"Impact of Treatment across Genotypes\",\n        subtitle = \"n = 3 biological replicates\",\n        x = \"Genotype\",\n        y = \"Normalized Expression (Z-score)\"\n    ) +\n    theme_minimal()\n\n# Save for publication\n# ggsave(\"results/figure1.svg\", final_plot)",
+    "crumbs": [
+      "Quarto & Julia for Reproducible Research",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Julia for Data Analysis</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/julia-data-analysis.html#compliance-with-reproducible-research-rules",
+    "href": "tutorials/julia-data-analysis.html#compliance-with-reproducible-research-rules",
+    "title": "17  Julia for Data Analysis",
+    "section": "17.6 Compliance with Reproducible Research Rules",
+    "text": "17.6 Compliance with Reproducible Research Rules\nTo ensure your Julia analysis is fully reproducible and compliant with Lab Rules, you must follow these technical requirements:\n\nEnvironment Lockdown: Always include Project.toml and Manifest.toml. This ensures that anyone else can run your analysis with the exact same package versions.\nNo Absolute Paths: Use the data/ directory relative to your project root. Never use paths like C:/Users/....\nScripted Analysis: Every result must be generated by code within your Quarto document. Avoid “manual” steps in the REPL that are not recorded in the script.\nSeed for Randomness: If your analysis involves random sampling or simulations, always set a seed using Random.seed!(123) for deterministic results.\nVersion Control: Commit your .qmd files and helper scripts to GitHub. Do not commit large datasets (use the lab’s shared drive instead).\n\n\n\n\n\n\n\nTipLearn More\n\n\n\n… - TidierData.jl Documentation - GLM.jl Modeling Guide - TidierPlots.jl Gallery",
+    "crumbs": [
+      "Quarto & Julia for Reproducible Research",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Julia for Data Analysis</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/reproducible-research.html",
+    "href": "tutorials/reproducible-research.html",
+    "title": "18  Reproducible Research Rules",
+    "section": "",
+    "text": "18.1 Lab Rule 1: No “Shadow” Data or Results\nIn the S3Bio lab, reproducibility is not just a goal; it’s a requirement. We use Quarto to ensure that every result, plot, and table in our publications can be independently verified and recreated.\nAll data analysis must be performed in a Quarto (.qmd) document. Never copy and paste numbers or plots from an interactive session into a report. The code that generated the result must be present in the document.",
+    "crumbs": [
+      "Quarto & Julia for Reproducible Research",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Reproducible Research Rules</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/reproducible-research.html#lab-rule-2-self-contained-projects",
+    "href": "tutorials/reproducible-research.html#lab-rule-2-self-contained-projects",
+    "title": "18  Reproducible Research Rules",
+    "section": "18.2 Lab Rule 2: Self-Contained Projects",
+    "text": "18.2 Lab Rule 2: Self-Contained Projects\nEvery project must be self-contained. This means:\n\nData: Small datasets should be in a data/ folder.\nDependencies: Include Project.toml and Manifest.toml files to specify the exact versions of the Julia packages used.\nPaths: Always use relative paths (e.g., data/samples.csv), never absolute paths (e.g., C:/Users/name/Desktop/data.csv).",
+    "crumbs": [
+      "Quarto & Julia for Reproducible Research",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Reproducible Research Rules</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/reproducible-research.html#lab-rule-3-use-version-control-gitgithub",
+    "href": "tutorials/reproducible-research.html#lab-rule-3-use-version-control-gitgithub",
+    "title": "18  Reproducible Research Rules",
+    "section": "18.3 Lab Rule 3: Use Version Control (Git/GitHub)",
+    "text": "18.3 Lab Rule 3: Use Version Control (Git/GitHub)\nEvery Quarto project must be tracked in a Git repository and hosted on the S3Bio GitHub organization. This allows us to see how the analysis has evolved and to revert to previous versions if necessary.",
+    "crumbs": [
+      "Quarto & Julia for Reproducible Research",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Reproducible Research Rules</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/reproducible-research.html#lab-rule-4-clear-documentation",
+    "href": "tutorials/reproducible-research.html#lab-rule-4-clear-documentation",
+    "title": "18  Reproducible Research Rules",
+    "section": "18.4 Lab Rule 4: Clear Documentation",
+    "text": "18.4 Lab Rule 4: Clear Documentation\nYour Quarto documents should not just be blocks of code. Use Markdown to explain the why and how of your analysis. This is essential for someone (including your future self) to understand and reproduce your results. Use Markdown to:\n\nState the objective of the analysis.\nDescribe the methods and any assumptions made.\nExplain the findings and how they relate to the project’s goals.",
+    "crumbs": [
+      "Quarto & Julia for Reproducible Research",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Reproducible Research Rules</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/reproducible-research.html#lab-rule-5-regular-rendering",
+    "href": "tutorials/reproducible-research.html#lab-rule-5-regular-rendering",
+    "title": "18  Reproducible Research Rules",
+    "section": "18.5 Lab Rule 5: Regular Rendering",
+    "text": "18.5 Lab Rule 5: Regular Rendering\nRender your documents frequently to ensure they still work. A Quarto document that doesn’t render is a broken analysis. Use quarto preview during development to see changes in real-time.",
+    "crumbs": [
+      "Quarto & Julia for Reproducible Research",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Reproducible Research Rules</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/reproducible-research.html#lab-rule-6-quarto-for-communication",
+    "href": "tutorials/reproducible-research.html#lab-rule-6-quarto-for-communication",
+    "title": "18  Reproducible Research Rules",
+    "section": "18.6 Lab Rule 6: Quarto for Communication",
+    "text": "18.6 Lab Rule 6: Quarto for Communication\nAll internal lab reports, presentations, and supplementary materials for publications must be created using Quarto. This ensures that the “source of truth” is always the code and that any changes to the data are automatically reflected in all communication materials.\n\n\n\n\n\n\nImportantReproducibility Checklist\n\n\n\nBefore sharing your analysis with the lab, ask yourself: 1. Does it render from start to finish on another machine using quarto render? 2. Are all data sources and dependencies clearly defined? 3. Is the logic of the analysis explained in the text? 4. Are all figures and tables generated directly from the code?",
+    "crumbs": [
+      "Quarto & Julia for Reproducible Research",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Reproducible Research Rules</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/reproducible-research.html#example-a-reproducible-project-structure",
+    "href": "tutorials/reproducible-research.html#example-a-reproducible-project-structure",
+    "title": "18  Reproducible Research Rules",
+    "section": "18.7 Example: A Reproducible Project Structure",
+    "text": "18.7 Example: A Reproducible Project Structure\nmy-reproducible-project/\n├── data/           # Raw and cleaned data\n├── docs/           # Project-specific documentation\n├── results/        # Rendered HTML/PDF reports\n├── src/            # Helper scripts (.jl)\n├── README.md       # Project overview\n├── analysis.qmd    # The main Quarto analysis file\n├── Project.toml    # Julia project dependencies\n└── Manifest.toml   # Precise Julia package versions",
+    "crumbs": [
+      "Quarto & Julia for Reproducible Research",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Reproducible Research Rules</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/pkg-structure.html",
+    "href": "tutorials/pkg-structure.html",
+    "title": "19  Package Structure & PkgTemplates",
+    "section": "",
+    "text": "19.1 Creating a Package with PkgTemplates.jl\nIn the S3Bio lab, we use PkgTemplates.jl to ensure that all new packages follow a consistent structure and include necessary files for testing, documentation, and continuous integration.",
+    "crumbs": [
+      "Julia Package Development",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Package Structure & PkgTemplates</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/pkg-structure.html#creating-a-package-with-pkgtemplates.jl",
+    "href": "tutorials/pkg-structure.html#creating-a-package-with-pkgtemplates.jl",
+    "title": "19  Package Structure & PkgTemplates",
+    "section": "",
+    "text": "19.1.1 Installation\nAdd the template generator to your global environment:\nusing Pkg\nPkg.add(\"PkgTemplates\")\n\n\n19.1.2 Generating a New Package\nWe recommend using the following template configuration for lab projects:\nusing PkgTemplates\n\ntpl = Template(;\n    user=\"S3Bio\",                      # GitHub organization\n    authors=\"S3Bio Lab Member\",        # Your name\n    dir=\".\",                           # Directory to create the package in\n    plugins=[\n        License(; name=\"MIT\"),         # Choose the appropriate license\n        Git(; branch=\"main\"),          # Default branch\n        GitHubActions(),               # Continuous Integration\n        Codecov(),                     # Code coverage\n        Documenter{GitHubActions}(),   # Auto-generate documentation\n    ],\n)\n\ntpl(\"MyNewProject\")",
+    "crumbs": [
+      "Julia Package Development",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Package Structure & PkgTemplates</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/pkg-structure.html#standard-package-anatomy",
+    "href": "tutorials/pkg-structure.html#standard-package-anatomy",
+    "title": "19  Package Structure & PkgTemplates",
+    "section": "19.2 Standard Package Anatomy",
+    "text": "19.2 Standard Package Anatomy\nA well-structured Julia package generated by our template looks like this:\nMyPackage/\n├── src/\n│   └── MyPackage.jl  # Main module file\n├── test/\n│   └── runtests.jl   # Test suite\n├── docs/             # Documentation source (Markdown)\n├── Project.toml      # Package metadata and dependencies\n├── Manifest.toml     # Exact dependency versions\n└── README.md         # Project overview and usage\n\n19.2.1 Key Files\n\nsrc/: All your source code goes here. The main entry point is MyPackage.jl.\nProject.toml: Defines the package name, UUID, and its dependencies.\nManifest.toml: Lock file that ensures reproducibility by recording the exact versions of all dependencies.",
+    "crumbs": [
+      "Julia Package Development",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Package Structure & PkgTemplates</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/pkg-dev-workflow.html",
+    "href": "tutorials/pkg-dev-workflow.html",
+    "title": "20  Development Workflow & Revise.jl",
+    "section": "",
+    "text": "20.1 Setting Up Revise.jl\nA productive Julia development workflow is interactive. In the S3Bio lab, we use Revise.jl as a mandatory tool to enable rapid code modification without needing to restart the Julia REPL.\nRevise should be installed in your global environment and automatically loaded when you start Julia.",
+    "crumbs": [
+      "Julia Package Development",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Development Workflow & Revise.jl</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/pkg-dev-workflow.html#setting-up-revise.jl",
+    "href": "tutorials/pkg-dev-workflow.html#setting-up-revise.jl",
+    "title": "20  Development Workflow & Revise.jl",
+    "section": "",
+    "text": "20.1.1 Installation\nIn the Julia REPL, press ] to enter Pkg mode:\npkg&gt; add Revise\n\n\n20.1.2 Configure Automatic Loading\nCreate (or edit) your ~/.julia/config/startup.jl file and add the following lines:\ntry\n    using Revise\ncatch e\n    @warn \"Error loading Revise\" e\nend",
+    "crumbs": [
+      "Julia Package Development",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Development Workflow & Revise.jl</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/pkg-dev-workflow.html#interactive-development-workflow",
+    "href": "tutorials/pkg-dev-workflow.html#interactive-development-workflow",
+    "title": "20  Development Workflow & Revise.jl",
+    "section": "20.2 Interactive Development Workflow",
+    "text": "20.2 Interactive Development Workflow\nThe typical workflow for modifying a package in the lab is as follows:\n\nOpen Julia in your project directory: julia --project.\nLoad your package: using MyPackage.\nUse Revise: Any changes you make to the source code files in src/ will be immediately reflected in your current Julia session.\nNo Restart Required: You can keep your session open for days while you iterate on your code and analysis.",
+    "crumbs": [
+      "Julia Package Development",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Development Workflow & Revise.jl</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/pkg-dev-workflow.html#project-activation",
+    "href": "tutorials/pkg-dev-workflow.html#project-activation",
+    "title": "20  Development Workflow & Revise.jl",
+    "section": "20.3 Project Activation",
+    "text": "20.3 Project Activation\nAlways ensure you are working within the correct project environment.\n\nREPL: Use Pkg.activate(\".\") if you didn’t start with the --project flag.\nVS Code: The Julia extension automatically detects and activates your project environment if configured correctly.",
+    "crumbs": [
+      "Julia Package Development",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Development Workflow & Revise.jl</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/pkg-testing.html",
+    "href": "tutorials/pkg-testing.html",
+    "title": "21  Testing & Continuous Integration",
+    "section": "",
+    "text": "21.1 Writing Unit Tests\nTesting is fundamental to ensuring the correctness and stability of our research software. In the S3Bio lab, all packages must follow a rigorous testing and CI protocol.\nWe use the built-in Test standard library to write unit tests for all our functions.",
+    "crumbs": [
+      "Julia Package Development",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Testing & Continuous Integration</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/pkg-testing.html#writing-unit-tests",
+    "href": "tutorials/pkg-testing.html#writing-unit-tests",
+    "title": "21  Testing & Continuous Integration",
+    "section": "",
+    "text": "21.1.1 test/runtests.jl\nEvery package must have a test/runtests.jl file. Use @testset to organize your tests into logical groups:\nusing MyPackage\nusing Test\n\n@testset \"MyPackage.jl\" begin\n    @testset \"Basic Functions\" begin\n        @test MyPackage.add(1, 1) == 2\n        @test MyPackage.multiply(2, 3) == 6\n    end\n    \n    @testset \"Complex Analysis\" begin\n        # More complex tests here\n    end\nend",
+    "crumbs": [
+      "Julia Package Development",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Testing & Continuous Integration</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/pkg-testing.html#running-tests-locally",
+    "href": "tutorials/pkg-testing.html#running-tests-locally",
+    "title": "21  Testing & Continuous Integration",
+    "section": "21.2 Running Tests Locally",
+    "text": "21.2 Running Tests Locally\nTo run your tests from the Julia REPL:\nusing Pkg\nPkg.test()\nThis will automatically create a temporary environment and run your tests in it.",
+    "crumbs": [
+      "Julia Package Development",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Testing & Continuous Integration</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/pkg-testing.html#github-actions-ci",
+    "href": "tutorials/pkg-testing.html#github-actions-ci",
+    "title": "21  Testing & Continuous Integration",
+    "section": "21.3 GitHub Actions (CI)",
+    "text": "21.3 GitHub Actions (CI)\nOur packages are automatically tested on every push and pull request via GitHub Actions. Our templates (from PkgTemplates.jl) automatically configure this for you.\n\n21.3.1 CI Requirements\n\nPassed Builds: Every PR must pass all CI checks (Linux, macOS, Windows) for the supported Julia versions.\nCode Coverage: We use Codecov to track our test coverage.\n\nMinimum Requirement: All lab packages must maintain at least 80% code coverage.\n\n\n\n\n\n\n\n\nImportantLab Rule\n\n\n\nA pull request will not be merged until it passes all CI checks and meets the code coverage requirements.",
+    "crumbs": [
+      "Julia Package Development",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Testing & Continuous Integration</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/pkg-testing.html#troubleshooting-ci",
+    "href": "tutorials/pkg-testing.html#troubleshooting-ci",
+    "title": "21  Testing & Continuous Integration",
+    "section": "21.4 Troubleshooting CI",
+    "text": "21.4 Troubleshooting CI\nIf your CI build fails, check the GitHub Actions logs to identify the error. Often, it’s due to a missing dependency in Project.toml or a platform-specific issue.",
+    "crumbs": [
+      "Julia Package Development",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Testing & Continuous Integration</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/pkg-publishing.html",
+    "href": "tutorials/pkg-publishing.html",
+    "title": "22  Package Publishing & Documentation",
+    "section": "",
+    "text": "22.1 Documenting Your Package\nThe final stage of package development in the S3Bio lab is documentation and publishing.\nWe use Documenter.jl to create professional, Markdown-based documentation.",
+    "crumbs": [
+      "Julia Package Development",
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Package Publishing & Documentation</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/pkg-publishing.html#documenting-your-package",
+    "href": "tutorials/pkg-publishing.html#documenting-your-package",
+    "title": "22  Package Publishing & Documentation",
+    "section": "",
+    "text": "22.1.1 Why Documentation?\n\nIt explains the theory behind your code.\nIt provides examples and tutorials for other users.\nIt automatically generates a reference guide from your docstrings.\n\n\n\n22.1.2 Documentation Structure\nYour documentation lives in the docs/ folder:\ndocs/\n├── make.jl    # Build script\n└── src/\n    └── index.md # Main documentation page\n\n\n22.1.3 Auto-Deployment\nOur templates configure GitHub Actions to automatically build and deploy your documentation to GitHub Pages whenever you push to the main branch.",
+    "crumbs": [
+      "Julia Package Development",
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Package Publishing & Documentation</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/pkg-publishing.html#registering-your-package",
+    "href": "tutorials/pkg-publishing.html#registering-your-package",
+    "title": "22  Package Publishing & Documentation",
+    "section": "22.2 Registering Your Package",
+    "text": "22.2 Registering Your Package\nMost of our lab packages are private or shared within our GitHub organization. For general-purpose tools, we may register them in the General Julia registry.\n\n22.2.1 Registration Process\n\nTag a Release: Use a Git tag (e.g., v1.0.0) to mark your release.\nUse JuliaRegistrator: We use the Registrator bot on GitHub. Comment @JuliaRegistrator register on a commit or PR to start the process.\nLab Approval: Consult with the PI before registering any package in a public registry.",
+    "crumbs": [
+      "Julia Package Development",
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Package Publishing & Documentation</span>"
+    ]
+  },
+  {
+    "objectID": "tutorials/pkg-publishing.html#best-practices-for-maintenance",
+    "href": "tutorials/pkg-publishing.html#best-practices-for-maintenance",
+    "title": "22  Package Publishing & Documentation",
+    "section": "22.3 Best Practices for Maintenance",
+    "text": "22.3 Best Practices for Maintenance\n\nSemantic Versioning (SemVer): Follow SemVer (e.g., v1.2.3). Increase the major version for breaking changes.\nRelease Notes: Maintain a CHANGELOG.md to track changes between versions.\nDependency Updates: Periodically update your Project.toml and Manifest.toml to use the latest versions of your dependencies.",
+    "crumbs": [
+      "Julia Package Development",
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Package Publishing & Documentation</span>"
+    ]
+  }
+]
