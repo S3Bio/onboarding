@@ -46,7 +46,7 @@ Never commit large, sensitive, or raw datasets to your personal repository. Use 
 
 ## Privacy and Sharing
 
--   **Public vs. Private**: You can keep your study repo private, but we encourage making sections of it public to build your professional profile.
+-   **Public vs. Private**: You must keep your study repo private to protect your intellectual property and personal notes. You can share specific issues or project boards with your advisor for feedback.
 -   **Collaboration**: You can invite your advisor as a collaborator to your private repo for more direct feedback on your planning and notes.
 
 ::: {.callout-tip}

@@ -14,7 +14,9 @@ book:
         - sections/about.qmd
         - sections/getting-started.qmd
         - sections/policies.qmd
+        - sections/ai-policy.qmd
         - sections/resources.qmd
+        - tutorials/draft-manuscript.qmd
     - part: "Lab Safety & Protocols"
       chapters:
         - sections/lab-safety/personal-protection.qmd
@@ -34,6 +36,7 @@ book:
         - tutorials/quarto-basics.qmd
         - tutorials/julia-programming.qmd
         - tutorials/julia-data-analysis.qmd
+        - tutorials/draft-manuscript.qmd
         - tutorials/reproducible-research.qmd
     - part: "Julia Package Development"
       chapters:

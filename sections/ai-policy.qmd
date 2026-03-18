@@ -1,0 +1,132 @@
+---
+title: "Lab AI Policy"
+---
+
+# Lab AI Policy
+
+## Overview
+
+This policy establishes guidelines for the responsible and ethical use of artificial intelligence (AI) technologies in our research laboratory at Chulalongkorn University. It aligns with international standards including ICMJE recommendations for scientific publishing and COPE guidelines for publication ethics.
+
+## Scope
+
+This policy applies to all lab members, including faculty, researchers, students, and collaborators, in their use of AI technologies for research, writing, analysis, and publication activities.
+
+## Ethical Principles
+
+### Transparency and Disclosure
+- **AI Usage Disclosure**: All use of AI technologies must be disclosed in research manuscripts, grant proposals, and publications.
+- **Method Documentation**: Describe how AI was used, including specific tools, prompts, and purposes.
+- **Human Oversight**: Humans remain responsible for the accuracy, integrity, and originality of all work.
+
+### Academic Integrity
+- **No AI-Generated Content**: AI shall not be used to generate original research content, hypotheses, or conclusions.
+- **Technical Assistance Only**: AI may be used for:
+  - Grammar and style checking
+  - Language translation
+  - Literature search assistance
+  - Data analysis and visualization
+  - Code generation and debugging
+  - Technical writing assistance
+
+### Authorship and Attribution
+- **AI Cannot Be Author**: AI tools cannot be listed as authors on publications.
+- **Proper Attribution**: When AI-generated content is used, it must be clearly attributed and cited appropriately.
+- **Human Verification**: All AI-assisted content must be reviewed and verified by human researchers.
+
+## Permitted AI Uses
+
+### Research Activities
+- **Literature Review**: AI tools for systematic literature searches and summarization
+- **Data Analysis**: Machine learning algorithms for data processing and statistical analysis
+- **Code Development**: AI-assisted programming and debugging
+- **Visualization**: AI tools for creating graphs, charts, and data visualizations
+
+### Writing and Publication
+- **Technical Writing**: AI assistance for improving clarity and technical accuracy
+- **Language Support**: Grammar checking and language translation
+- **Formatting**: Document formatting and reference management
+- **Proofreading**: Style and consistency checking
+
+## Prohibited AI Uses
+
+### Content Generation
+- Generating research hypotheses or conclusions
+- Writing original text for manuscripts
+- Creating fictional data or results
+- Generating abstracts or summaries without human review
+
+### Research Integrity Violations
+- Using AI to manipulate or fabricate data
+- Automated plagiarism or content duplication
+- Bypassing peer review processes
+
+## Implementation Guidelines
+
+### Documentation Requirements
+- **Manuscript Submissions**: Include AI usage statement in cover letters
+- **Grant Applications**: Disclose AI use in methodology sections
+- **Lab Records**: Maintain logs of AI tool usage for research projects
+
+### Review Process
+- **Peer Review**: Lab members review each other's AI usage
+- **Supervisor Approval**: Research leads approve AI usage in projects
+- **Publication Review**: Final check for AI disclosure before submission
+
+## Journal-Specific Requirements
+
+- Disclose AI use at submission
+- Describe AI usage in methods section
+- Default to full transparency when guidelines are unclear
+- Confirm human responsibility for content accuracy
+- Follow each journal's specific AI disclosure policies
+
+## Data Privacy and Security
+
+### Confidentiality
+- Do not upload confidential or proprietary data to AI systems
+- Use institutional or approved AI platforms only
+- Maintain data security standards when using AI tools
+
+### Intellectual Property
+- Respect copyright and licensing of AI training data
+- Protect lab intellectual property when using AI services
+- Document ownership of AI-generated outputs
+
+## Monitoring and Compliance
+
+### Regular Audits
+- Annual review of AI usage in lab publications
+- Random checks of research documentation
+- Assessment of policy effectiveness
+
+### Reporting Violations
+- Report suspected AI misuse to lab supervisor
+- University ethics committee for serious violations
+- Corrective actions for policy breaches
+
+## Resources and Support
+
+### Training Materials
+- ICMJE AI guidelines: https://www.icmje.org/recommendations/browse/artificial-intelligence/
+- COPE AI guidance: https://publicationethics.org/guidance/Guidelines
+- Chulalongkorn University research ethics policies
+
+### Approved Tools
+- **Writing Assistance**: Grammarly, LanguageTool (with human review)
+- **Research Tools**: AI-powered literature search tools
+- **Analysis Tools**: Institutional statistical software with AI features
+- **Programming**: GitHub Copilot, ChatGPT for code assistance
+
+## Policy Review
+
+This policy will be reviewed annually or when significant changes in AI technology or regulations occur. Updates will be communicated to all lab members.
+
+## Contact
+
+For questions about this policy, contact the lab director or research ethics committee.
+
+---
+
+*Last updated: [Current Date]*  
+*Based on ICMJE Recommendations (2024) and international best practices*

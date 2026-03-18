@@ -1,0 +1,434 @@
+---
+title: "Drafting Manuscripts with AI: Using OpenAI Prism"
+description: "Tutorial and best practices for using OpenAI Prism LaTeX editor in publication drafting"
+---
+
+# Drafting Manuscripts with AI: Using OpenAI Prism {#draft-manuscript}
+
+In the era of large language models, AI can provide technical assistance in drafting scientific publications, particularly for formatting and technical tasks. However, **maintaining academic integrity requires that AI be used cautiously and appropriately**. This tutorial introduces OpenAI Prism, a free AI-first LaTeX editor and scientific workspace that integrates limited AI tools directly into scientific writing, with strong emphasis on responsible usage that preserves human authorship of intellectual content.
+
+## What is OpenAI Prism?
+
+OpenAI Prism is a **free, AI-first LaTeX editor and scientific workspace** designed specifically for researchers and scientists. It seamlessly integrates ChatGPT and Codex (OpenAI's code generation model) directly into the writing process, providing intelligent assistance for:
+
+- **LaTeX Document Creation**: Professional typesetting with AI-powered suggestions
+- **Real-time AI Assistance**: ChatGPT integration for content generation and refinement
+- **Code Generation**: Codex integration for mathematical equations, algorithms, and code snippets
+- **Collaborative Writing**: Team features for co-authoring scientific documents
+- **Scientific Workflow**: End-to-end support from drafting to publication-ready documents
+
+Prism combines the power of LaTeX with AI intelligence, making scientific writing more efficient while maintaining professional standards.
+
+## Accessing OpenAI Prism
+
+### Step 1: Navigate to Prism
+
+1. Visit [https://openai.com/prism/](https://openai.com/prism/)
+2. Sign up with your OpenAI account or create a new one
+3. Access the LaTeX editor workspace
+
+### Step 2: Set Up Your Workspace
+
+- **Choose Document Type**: Select from templates (article, paper, thesis, etc.)
+- **Enable AI Features**: Configure ChatGPT and Codex integration settings
+- **Set Collaboration Preferences**: Invite team members if working collaboratively
+
+## Basic AI-Assisted Drafting Workflow in Prism
+
+### Step 1: Define Your Research Context
+
+Before starting, clearly define the scope of your manuscript:
+
+- Research question and objectives
+- Target audience (journal, field)
+- Key findings and data
+- Citation requirements
+
+### Step 2: Create Your LaTeX Document
+
+#### Starting a New Document
+
+1. **Select Template**: Choose appropriate LaTeX template for your document type
+2. **Import Existing Content**: Upload existing drafts or research materials
+3. **Set Document Metadata**: Title, authors, affiliations, abstract
+
+#### AI Assistance for Technical Tasks Only
+
+**Important**: Avoid using AI for generating manuscript content. Prism's AI features should be used only for technical assistance:
+
+- **LaTeX Equation Generation**: Creating properly formatted mathematical expressions
+- **Code Formatting**: Generating syntax-highlighted code blocks for methods
+- **Reference Formatting**: Ensuring consistent citation styles
+- **Grammar and Style Checking**: Identifying potential language issues (always verify manually)
+
+**Do NOT use AI to**:
+- Write introduction or discussion paragraphs
+- Generate results interpretations
+- Create abstracts or conclusions
+- Formulate research narratives
+
+### Step 3: Leverage Codex for Technical Content
+
+For mathematical and computational content:
+
+1. **Equation Generation**: Ask Codex to generate LaTeX equations
+2. **Algorithm Descriptions**: Generate pseudocode or mathematical formulations
+3. **Code Snippets**: Create reproducible code examples
+
+**Example Codex Usage:**
+
+```
+Generate the LaTeX code for this mathematical equation:
+The prediction accuracy A is calculated as A = (TP + TN) / (TP + TN + FP + FN)
+where TP, TN, FP, FN represent true positives, true negatives, false positives, and false negatives respectively.
+```
+
+## Collaboration Features in Prism
+
+Prism provides powerful collaboration tools for team-based scientific writing:
+
+### Real-time Co-editing
+
+1. **Invite Collaborators**: Share document access with team members
+2. **Live Editing**: Multiple authors can edit simultaneously
+3. **Change Tracking**: See who made what changes and when
+
+### AI-Assisted Collaboration
+
+- **Shared AI Sessions**: Team members can interact with the same ChatGPT/Codex instance
+- **Collaborative Prompts**: Build on each other's AI-generated content
+- **Review Workflows**: Use AI to suggest improvements to team members' contributions
+
+### Version Control and History
+
+- **Automatic Saves**: All changes are saved automatically
+- **Version History**: Access previous versions of the document
+- **Branching**: Create branches for different manuscript versions
+
+### Export and Sharing
+
+- **PDF Export**: Generate publication-ready PDFs
+- **LaTeX Source**: Export raw LaTeX code for other editors
+- **Web Sharing**: Share read-only versions with reviewers
+
+## Best Practices for AI-Assisted Drafting in Prism
+
+### 1. Appropriate AI Usage in Scientific Writing
+
+**AVOID using AI for content generation**. AI should NOT be used to:
+- Generate original text, paragraphs, or sections of your manuscript
+- Write introductions, methods, results, or discussion sections
+- Create abstracts or conclusions
+- Formulate research questions or hypotheses
+
+**INSTEAD, use AI for technical assistance only**:
+- **LaTeX Formatting**: Generate complex mathematical equations and formatting code
+- **Reference Formatting**: Format citations and bibliographies in specific styles
+- **Grammar and Style Checking**: Identify potential language issues (with human verification)
+- **Code Snippets**: Generate reproducible code examples for methods sections
+- **Figure Captions**: Assist in drafting clear, descriptive captions
+- **Proofreading**: Help identify typos and formatting inconsistencies
+
+### 2. Human-AI Collaboration Principles
+
+- **AI as Technical Assistant Only**: Use AI for formatting, equations, and technical tasks, not for intellectual content
+- **Maintain Authorial Control**: All scientific content must be written by human authors
+- **Critical Review**: Always verify AI suggestions against your expertise and literature
+- **Transparency**: Clearly document any AI usage in methods or acknowledgments
+
+### 3. Quality Assurance and Verification
+
+- **Independent Verification**: Cross-check all AI-assisted outputs with primary sources
+- **Peer Review**: Have colleagues review any AI-influenced sections
+- **Ethical Oversight**: Ensure AI usage doesn't compromise research integrity
+- **Documentation**: Keep records of AI tools used and how they were applied
+
+### 4. Ethical and Responsible AI Use
+
+- **Academic Integrity**: AI should not contribute to the intellectual content of your work
+- **Originality**: Ensure all scientific contributions remain human-authored
+- **Bias Awareness**: Be aware that AI tools may reflect training data biases
+- **Disclosure**: Transparently report AI usage in publications and grant applications
+
+### 5. Workflow Optimization with Minimal AI Reliance
+
+#### Focus on Core Strengths
+- Use Prism's LaTeX editor for professional typesetting
+- Leverage version control for collaborative writing
+- Employ templates for consistent formatting
+- Use real-time collaboration features for team writing
+
+#### Limited AI Integration
+- Reserve AI for purely technical tasks (equations, formatting)
+- Use AI suggestions as starting points, not final products
+- Always rewrite AI-generated content in your own words
+- Verify technical accuracy independently
+
+#### Best Practice Workflow
+1. **Write first draft manually** using your expertise and sources
+2. **Use AI for technical formatting** (equations, references, code)
+3. **Apply AI for proofreading** (grammar, style consistency)
+4. **Final human review** to ensure scientific accuracy and originality
+
+#### Keyboard Shortcuts
+- `Ctrl/Cmd + Shift + A`: Invoke ChatGPT assistance
+- `Ctrl/Cmd + Shift + C`: Generate code with Codex
+- `Ctrl/Cmd + S`: Save and sync changes
+
+#### Template Usage
+- Use Prism's built-in scientific templates
+- Customize templates for lab-specific formatting
+- Save frequently used prompt templates
+
+## Advanced Features
+
+### Custom AI Models and Fine-tuning
+
+- **Domain-Specific Models**: Fine-tune AI assistants for your research area
+- **Lab-Specific Knowledge**: Upload lab protocols and style guides
+- **Citation Integration**: Connect to reference managers (Zotero, Mendeley)
+
+### Integration with Research Tools
+
+- **Data Import**: Upload datasets for AI analysis
+- **Figure Generation**: Use AI to suggest visualizations
+- **Reference Management**: Auto-generate citations from DOI or paper titles
+
+### Automation Workflows
+
+- **Batch Processing**: Generate multiple sections simultaneously
+- **Quality Checks**: Automated proofreading and style checking
+- **Export Pipelines**: Direct submission to journals or preprint servers
+
+## Common Pitfalls and Solutions
+
+### Pitfall 1: Over-reliance on AI
+**Solution**: Treat AI as a writing assistant. Always apply human judgment and expertise.
+
+### Pitfall 2: LaTeX Errors from AI
+**Solution**: Review generated LaTeX code carefully. Use Prism's built-in compiler to catch errors.
+
+### Pitfall 3: Collaboration Conflicts
+**Solution**: Establish clear authorship guidelines and use version control features.
+
+### Pitfall 4: Style Inconsistencies
+**Solution**: Use consistent prompts and maintain style guides within Prism.
+
+### Pitfall 5: Technical Issues
+**Solution**: Keep backups of your work and use offline LaTeX editors as fallback.
+
+## Integration with Research Workflow
+
+### Version Control
+```bash
+# Use Git for advanced version control
+git init manuscript-prism
+git add manuscript.tex
+git commit -m "Initial draft with AI assistance"
+```
+
+### File Organization
+- **Project Structure**: Keep related files (data, figures, references) organized
+- **Backup Strategy**: Regular exports to multiple formats
+- **Cloud Sync**: Use Prism's cloud features for accessibility
+
+### Publication Pipeline
+1. **Draft in Prism**: Use AI assistance for initial writing
+2. **Peer Review**: Share via collaboration features
+3. **Final Editing**: Manual polishing and formatting
+4. **Export**: Generate submission-ready files
+
+## Conclusion
+
+OpenAI Prism provides valuable technical assistance for scientific writing by combining LaTeX's precision with targeted AI support for formatting and technical tasks. While AI can enhance workflow efficiency for equations, code, and formatting, **the intellectual content of scientific manuscripts must remain human-authored** to maintain academic integrity and research quality.
+
+By using Prism responsibly—focusing on its LaTeX editing capabilities and limited technical AI assistance—researchers can improve their writing process while upholding the highest standards of scientific scholarship.
+
+Remember: AI tools should support, not replace, human scientific creativity and expertise.
+
+## Resources
+
+- [OpenAI Prism](https://openai.com/prism/)
+- [LaTeX Documentation](https://www.latex-project.org/)
+- [Scientific Writing with AI Guidelines](https://www.elsevier.com/connect/ai-and-academic-publishing)
+- [Best Practices for AI in Research](https://www.nature.com/articles/d41586-023-03235-8)
+
+1. Go to [chat.openai.com/gpts](https://chat.openai.com/gpts)
+2. Click "Create a GPT"
+3. Configure with:
+   - **Name**: "S3Bio Manuscript Assistant"
+   - **Description**: Specialized for bioinformatics manuscript drafting
+   - **Instructions**: Include field-specific knowledge, citation styles, and lab guidelines
+   - **Knowledge Files**: Upload lab protocols, style guides, and reference materials
+
+### Team Workspaces (ChatGPT Team/Enterprise)
+
+For larger collaborations:
+
+1. **Upgrade to Team Plan**: Access shared workspaces
+2. **Create Team GPTs**: Available to all team members
+3. **Admin Controls**: Manage access and usage
+4. **Usage Analytics**: Track AI usage across projects
+
+### Collaborative Workflow Example
+
+```
+1. Researcher A: Generate initial draft using shared GPT
+2. Share conversation link with team
+3. Researcher B: Add feedback and revisions in the same thread
+4. Researcher C: Incorporate additional data and citations
+5. Export final version for manual editing
+```
+
+## Best Practices for AI-Assisted Publication Drafting
+
+### 1. Human-AI Collaboration
+
+- **AI as Assistant, Not Author**: Use AI to generate drafts, but always review and edit personally
+- **Iterative Refinement**: Generate multiple versions and combine the best elements
+- **Domain Expertise**: Provide detailed context to ensure accuracy
+
+### 2. Quality Assurance
+
+- **Manual Review**: Always check factual accuracy and logical consistency
+- **Peer Review**: Share AI-generated content with colleagues before finalizing
+- **Cross-Verification**: Compare AI suggestions with established literature
+
+### 3. Ethical Considerations
+
+- **Transparency**: Clearly disclose AI usage in acknowledgments
+- **Originality**: Ensure AI-generated content doesn't plagiarize existing work
+- **Bias Mitigation**: Review for potential biases in AI-generated content
+
+### 4. Prompt Engineering Best Practices
+
+#### Structured Prompts
+```
+Role: You are an expert scientific editor
+Task: [Specific task]
+Context: [Background information]
+Format: [Desired structure]
+Constraints: [Word count, style, citations]
+Examples: [Reference examples]
+```
+
+#### Chain of Thought Prompting
+```
+Think step by step:
+1. Analyze the research question
+2. Identify key findings
+3. Structure the argument logically
+4. Write in academic style
+5. Add appropriate citations
+```
+
+### 5. Organization and Version Control
+
+- **Conversation Organization**: Use descriptive titles for conversations
+- **Export Regularly**: Save drafts as text files for version control
+- **Backup Important Conversations**: Use share links as backups
+
+## Advanced Features and Techniques
+
+### File Uploads and Analysis
+
+Upload research documents for context:
+
+1. Click the paperclip icon
+2. Upload PDFs, docs, or text files
+3. Ask questions like: "Summarize the methods section" or "Extract key findings"
+
+### Custom Instructions
+
+Set persistent preferences:
+
+1. Go to Settings > Custom Instructions
+2. Add: "Always write in academic style, include citations, focus on scientific accuracy"
+
+### GPT Builder for Specialized Tasks
+
+Create custom GPTs for specific manuscript tasks:
+
+- **Literature Review GPT**: Summarizes and synthesizes papers
+- **Methods GPT**: Generates detailed methodology sections
+- **Discussion GPT**: Helps develop implications and future work
+
+## Evaluation and Quality Control
+
+While the web platform doesn't have built-in Prism evaluation, you can implement manual quality checks:
+
+### Self-Evaluation Checklist
+
+- [ ] Factual accuracy verified against sources
+- [ ] Logical flow and coherence
+- [ ] Appropriate academic tone and style
+- [ ] Complete and accurate citations
+- [ ] Original contribution clearly stated
+- [ ] Methods described with sufficient detail
+
+### Peer Evaluation Process
+
+1. Share draft via collaboration link
+2. Request specific feedback on AI-generated sections
+3. Use follow-up prompts to address issues
+4. Iterate until quality standards are met
+
+### Benchmarking AI Performance
+
+Compare AI outputs against human-written standards:
+
+- Generate multiple versions of the same section
+- Compare with published papers in your field
+- Assess improvements in clarity, completeness, and accuracy
+
+## Common Pitfalls and Solutions
+
+### Pitfall 1: Over-reliance on AI
+**Solution**: Always perform human review and editing. Use AI for 30-50% of initial drafting.
+
+### Pitfall 2: Inaccurate Information
+**Solution**: Cross-reference AI-generated content with primary sources and expert knowledge.
+
+### Pitfall 3: Style Inconsistencies
+**Solution**: Develop style guides and use consistent prompts across sections.
+
+### Pitfall 4: Ethical Concerns
+**Solution**: Follow journal guidelines for AI disclosure and maintain academic integrity.
+
+### Pitfall 5: Collaboration Confusion
+**Solution**: Establish clear protocols for shared conversations and version control.
+
+## Integration with Research Workflow
+
+### Version Control
+```bash
+# Use Git to track AI-assisted drafting progress
+git init manuscript-drafting
+git add manuscript_v1.md
+git commit -m "Initial AI-generated draft"
+```
+
+### Collaboration Tools
+- Use shared ChatGPT conversations for team review
+- Implement review checklists that include AI usage disclosure
+- Maintain audit trails of AI-generated content
+
+### Integration with Writing Tools
+
+1. **Export from ChatGPT**: Copy text to Google Docs, Overleaf, or Quarto
+2. **Import Context**: Upload existing drafts for AI refinement
+3. **Hybrid Workflow**: Alternate between AI generation and manual writing
+
+## Conclusion
+
+The OpenAI web platform provides accessible and collaborative tools for AI-assisted publication drafting. By leveraging ChatGPT's capabilities and collaboration features, researchers can enhance their writing process while maintaining academic standards. The key is to use AI as a powerful assistant that augments human expertise rather than replacing it.
+
+Remember: AI is a powerful tool, but human expertise and judgment remain essential in scientific publishing.
+
+## Resources
+
+- [ChatGPT Help Center](https://help.openai.com/en/collections/3742473-chatgpt)
+- [Creating Custom GPTs](https://platform.openai.com/docs/gpt)
+- [Best Practices for AI in Research](https://www.nature.com/articles/d41586-023-03235-8)
+- [Academic Writing with AI Guidelines](https://www.elsevier.com/connect/ai-and-academic-publishing)
+- [ChatGPT Team Features](https://openai.com/chatgpt/team/)

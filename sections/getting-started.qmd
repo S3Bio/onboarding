@@ -7,14 +7,14 @@ Welcome to your first week! Here's a checklist of things to get set up.
 -   [ ] **Email & Identity**: Got your university email from the University.
 -   [ ] **Lab Access**: Request a face recognition access from the department administrator.
 -   [ ] **MS Teams**: Join the #S3Bio channel at [S3Bio MS Teams](https://teams.microsoft.com/l/team/19%3Acf572e7eb53b4f2dac3141fefbd20b64%40thread.tacv2/conversations?groupId=22e4958a-7be9-4e7f-bf73-07cc0d7d0534&tenantId=271d5e7b-1350-4b96-ab84-52dbda4cf40c).
--   [ ] **Emergency Contact**: Fill out the lab's emergency contact form.
+-   [ ] **Emergency Contact**: Make sure your emergency contact information is up to date with the university and program systems.
 
 ## Safety Training & Acknowledgment (All Members)
 
--   [ ] **Personal Protection**: Read and understand [PPE Requirements](#ppe).
 -   [ ] **Lab Regulations**: Read and understand [General Lab Regulations](#lab-regulations).
--   [ ] **Code of Conduct**: Review and sign the [Lab Code of Conduct](#policies).
--   [ ] **Data Policy**: Review and sign the [Data Management Policy](#policies).
+-   [ ] **Code of Conduct**: Review the lab's code of conduct and data management policies.
+-   [ ] **Data Policy**: Review and comply with the [Data Management Policy](#policies).
+-   [ ] **AI Policy**: Review and comply with the [AI Usage Policy](#ai-policy).
 
 ## Specific Onboarding
 
@@ -24,6 +24,7 @@ Please follow the checklist for your specific role:
 
 ### Wet Lab Members
 
+-   [ ] **Personal Protection**: Read and understand [PPE Requirements](#ppe).
 -   [ ] **Biosafety**: Read [Biosafety Protocols](#biosafety) and complete university BSL-2 training.
 -   [ ] **Chemical Safety**: Read [Chemical Safety](#chemical-safety) and locate all SDS for your project.
 -   [ ] **Waste Management**: Read [Waste Management](#waste-management) and identify all waste collection points.
@@ -33,9 +34,11 @@ Please follow the checklist for your specific role:
 
 ### Dry Lab Members
 
+-   [ ] **Data Management**: Review the [Data Management Policy](#data-management) and set up your data storage according to lab standards.
+-   [ ] **Reproducible Research**: Review the part Quarto & Julia for Reproducible Research tutorial and set up Quarto and Julia on your machine.
 -   [ ] **Github Account**: Create a GitHub account then send the username and email to your advisor.
 -   [ ] **Github Training**: Study the lab's GitHub workflow and best practices.
--   [ ] **Code of Conduct**: Review the lab's code of conduct and data management policies.
+-   [ ] **Personal Repo Guidelines**: Follow the lab's GitHub personal repo guidelines.
 -   [ ] **Server Access**: Request access to the high-performance computing (HPC) cluster from your advisor.
 -   [ ] **VPN Setup**: Configure the university VPN for remote data access.
 
