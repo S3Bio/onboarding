@@ -8,6 +8,7 @@ Welcome to your first week! Here's a checklist of things to get set up.
 -   [ ] **Lab Access**: Request a face recognition access from the department administrator.
 -   [ ] **MS Teams**: Join the #S3Bio channel at [S3Bio MS Teams](https://teams.microsoft.com/l/team/19%3Acf572e7eb53b4f2dac3141fefbd20b64%40thread.tacv2/conversations?groupId=22e4958a-7be9-4e7f-bf73-07cc0d7d0534&tenantId=271d5e7b-1350-4b96-ab84-52dbda4cf40c).
 -   [ ] **Emergency Contact**: Make sure your emergency contact information is up to date with the university and program systems.
+-   [ ] **Guidelines update**: these onboarding materials will be updated regularly. Please check back for any updates or changes to the onboarding process.
 
 ## Safety Training & Acknowledgment (All Members)
 
@@ -47,5 +48,5 @@ Please follow the checklist for your specific role:
 
 ::: {.callout-important}
 ## Onboarding Deadline
-Please complete these tasks within your first month.
+Please complete these tasks within your first month. After completion, please submit the [Onboarding Completion Form](https://forms.cloud.microsoft/r/zABhJmkvzZ) to confirm you've completed all steps.
 :::
